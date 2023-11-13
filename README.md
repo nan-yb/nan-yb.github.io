@@ -1,5 +1,3 @@
-# nan-yb.github.io
-
 ## jekyll start
 
 ``` sh
