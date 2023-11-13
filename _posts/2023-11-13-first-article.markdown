@@ -1,8 +1,9 @@
 ---
 
+layout: post
 title: First Article
-
-tags: jETA Sample
+date:   2023-11-13 21:50:59 +0900
+categories: jekyll update
 
 ---
 
