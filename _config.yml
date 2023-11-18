@@ -10,7 +10,7 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://www.yblog.dev'
-baseurl:          '/yblog.dev'
+baseurl:          '/'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
