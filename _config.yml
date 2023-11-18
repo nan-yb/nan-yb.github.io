@@ -1,7 +1,7 @@
 title: YBlog
 description: YBlog
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: 'https://github.com/nan-yb/nan-yb.github.io'
+url: 'https://nan-yb.github.io'
 repository: just-the-docs/just-the-docs # for github-metadata
 remote_theme: just-the-docs/just-the-docs
 
