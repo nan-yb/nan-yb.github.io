@@ -1,30 +1,14 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole site, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing these this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: YBlog
 description: YBlog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: 'https://www.yblog.dev'
-repository: just-the-docs/just-the-docs # for github-metadata
+# repository: just-the-docs/just-the-docs # for github-metadata
 theme: just-the-docs
 
 permalink: pretty
 
 
 exclude:
- # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
    - .sass-cache/
    - .jekyll-cache/
    - gemfiles/
@@ -51,11 +35,6 @@ exclude:
  # theme test code
    - fixtures/
 
-# Set a path/url to a logo that will be displayed instead of the title
-#logo: "/assets/images/just-the-docs.png"
-
-# Enable or disable the site search
-# Supports true (default) or false
 search_enabled: true
 search:
   # Split pages into sections that can be searched individually
@@ -161,11 +140,6 @@ callouts:
     title: Warning
     color: red
 
-# Google Analytics Tracking (optional)
-# Supports a CSV of tracking ID strings (eg. "UA-1234567-89,G-1AB234CDE5")
-# Note: the main Just the Docs site does *not* use Google Analytics.
-# ga_tracking: UA-2709176-10,G-5FG1HLH3XQ
-# ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 plugins:
   - jekyll-seo-tag
