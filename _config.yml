@@ -6,7 +6,6 @@ repository: just-the-docs/just-the-docs # for github-metadata
 remote_theme: just-the-docs/just-the-docs
 
 
-
 exclude:
    - .sass-cache/
    - .jekyll-cache/
