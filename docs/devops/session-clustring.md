@@ -74,6 +74,7 @@ Session Clustering기법의 단점을 극복하기 위해 Redis와 같은 세션
 {: .warning }
 서버가 죽을 경우 Redis서버의 모든 세션도 사라지기 때문에 Replication 설정도 필수로 해줘야한다.  
 
+---
 
 다음 포스트에서는 Redis를 사용하여 세션 정보를 관리하는 코드를 구현해보려 한다.
 
