@@ -71,8 +71,6 @@ module.exports = () => {
     experimental: {
       appDir: true,
     },
-    output: 'export',
-    unoptimized: true,
     // async headers() {
     //   return [
     //     {
@@ -81,10 +79,13 @@ module.exports = () => {
     //     },
     //   ]
     // },
+    output: 'export',
+    unoptimized: true,
     webpack: (config, options) => {
       config.module.rules.push({
         test: /\.svg$/,
         use: ['@svgr/webpack'],
+
       })
 
       return config
