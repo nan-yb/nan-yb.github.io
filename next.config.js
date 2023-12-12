@@ -66,21 +66,27 @@ module.exports = () => {
       dirs: ['app', 'components', 'layouts', 'scripts'],
     },
     images: {
-      domains: ['picsum.photos'],
+      remotePatterns: [
+        {
+          protocol: 'https',
+          hostname: 'picsum.photos',
+        },
+      ],
+      unoptimized: true,
     },
     experimental: {
       appDir: true,
     },
-    async headers() {
-      return [
-        {
-          source: '/(.*)',
-          headers: securityHeaders,
-        },
-      ]
-    },
-    // output: 'export',
-    // unoptimized: true,
+    // async headers() {
+    //   return [
+    //     {
+    //       source: '/(.*)',
+    //       headers: securityHeaders,
+    //     },
+    //   ]
+    // },
+    output: 'export',
+    basePath : "/yblog.dev",
     webpack: (config, options) => {
       config.module.rules.push({
         test: /\.svg$/,
