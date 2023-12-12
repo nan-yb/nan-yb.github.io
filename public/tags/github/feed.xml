@@ -1,0 +1,35 @@
+
+    <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <title>YB&#39;s blog - YB&#39;s coding journey</title>
+        <link>https://www.yblog.dev/blog</link>
+        <description>YB&#39;s coding journey - work and life stories through the keyboard of an open-minded Software Engineer</description>
+        <language>en</language>
+        <managingEditor>dydqls5757@gmail.com (yong bin KIM)</managingEditor>
+        <webMaster>dydqls5757@gmail.com (yong bin KIM)</webMaster>
+        <lastBuildDate>Sun, 09 Jul 2023 00:00:00 GMT</lastBuildDate>
+        <atom:link href="https://www.yblog.dev/tags/github/feed.xml" rel="self" type="application/rss+xml"/>
+        
+    <item>
+      <guid>https://www.yblog.dev/blog/verify-github-webhooks-requests</guid>
+      <title>Verifying Github webhooks requests with Node.js</title>
+      <link>https://www.yblog.dev/blog/verify-github-webhooks-requests</link>
+      <description>Learn how to verify Github webhooks requests and process them accordingly in a Node.js app</description>
+      <pubDate>Sun, 09 Jul 2023 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (yong bin KIM)</author>
+      <category>github</category><category>webhook</category><category>github-api</category><category>verify-webhook-signature</category><category>remix</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/embed-script-using-github-and-jsdelivr</guid>
+      <title>Embedding scripts in web pages made easy with Github and jsDelivr</title>
+      <link>https://www.yblog.dev/blog/embed-script-using-github-and-jsdelivr</link>
+      <description>Learn how to embed scripts and styles in your web pages without the need to modify your site&#39;s existing code. Use Github to host your script and style files, and jsDelivr as a CDN to deliver them to your web page.</description>
+      <pubDate>Sun, 05 Sep 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (yong bin KIM)</author>
+      <category>tutorial</category><category>sharing</category><category>embed</category><category>github</category><category>jsdelivr</category>
+    </item>
+  
+      </channel>
+    </rss>
+  

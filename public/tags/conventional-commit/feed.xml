@@ -1,0 +1,25 @@
+
+    <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <title>YB&#39;s blog - YB&#39;s coding journey</title>
+        <link>https://www.yblog.dev/blog</link>
+        <description>YB&#39;s coding journey - work and life stories through the keyboard of an open-minded Software Engineer</description>
+        <language>en</language>
+        <managingEditor>dydqls5757@gmail.com (yong bin KIM)</managingEditor>
+        <webMaster>dydqls5757@gmail.com (yong bin KIM)</webMaster>
+        <lastBuildDate>Sun, 01 Jan 2023 00:00:00 GMT</lastBuildDate>
+        <atom:link href="https://www.yblog.dev/tags/conventional-commit/feed.xml" rel="self" type="application/rss+xml"/>
+        
+    <item>
+      <guid>https://www.yblog.dev/blog/introduction-to-committing-with-conventional-commit</guid>
+      <title>Introduction to Committing with Conventional Commit</title>
+      <link>https://www.yblog.dev/blog/introduction-to-committing-with-conventional-commit</link>
+      <description>Conventional commit is a specific form of committing which gives software developers a uniform system for organizing and describing their changes, making it easier to keep track of updates</description>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (yong bin KIM)</author>
+      <category>commit</category><category>git</category><category>conventional-commit</category>
+    </item>
+  
+      </channel>
+    </rss>
+  

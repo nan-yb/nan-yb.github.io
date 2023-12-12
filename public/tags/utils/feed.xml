@@ -1,0 +1,25 @@
+
+    <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <title>YB&#39;s blog - YB&#39;s coding journey</title>
+        <link>https://www.yblog.dev/blog</link>
+        <description>YB&#39;s coding journey - work and life stories through the keyboard of an open-minded Software Engineer</description>
+        <language>en</language>
+        <managingEditor>dydqls5757@gmail.com (yong bin KIM)</managingEditor>
+        <webMaster>dydqls5757@gmail.com (yong bin KIM)</webMaster>
+        <lastBuildDate>Wed, 21 Sep 2022 00:00:00 GMT</lastBuildDate>
+        <atom:link href="https://www.yblog.dev/tags/utils/feed.xml" rel="self" type="application/rss+xml"/>
+        
+    <item>
+      <guid>https://www.yblog.dev/blog/deep-remove-falsy-values-from-an-object</guid>
+      <title>Remove all falsy values from an object and its nested children</title>
+      <link>https://www.yblog.dev/blog/deep-remove-falsy-values-from-an-object</link>
+      <description>Remove all falsy values from an object and its nested children</description>
+      <pubDate>Wed, 21 Sep 2022 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (yong bin KIM)</author>
+      <category>typescript</category><category>javascript</category><category>utils</category><category>object</category>
+    </item>
+  
+      </channel>
+    </rss>
+  

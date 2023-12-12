@@ -1,0 +1,55 @@
+
+    <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <title>YB&#39;s blog - YB&#39;s coding journey</title>
+        <link>https://www.yblog.dev/blog</link>
+        <description>YB&#39;s coding journey - work and life stories through the keyboard of an open-minded Software Engineer</description>
+        <language>en</language>
+        <managingEditor>dydqls5757@gmail.com (yong bin KIM)</managingEditor>
+        <webMaster>dydqls5757@gmail.com (yong bin KIM)</webMaster>
+        <lastBuildDate>Sun, 01 Jan 2023 00:00:00 GMT</lastBuildDate>
+        <atom:link href="https://www.yblog.dev/tags/git/feed.xml" rel="self" type="application/rss+xml"/>
+        
+    <item>
+      <guid>https://www.yblog.dev/blog/introduction-to-committing-with-conventional-commit</guid>
+      <title>Introduction to Committing with Conventional Commit</title>
+      <link>https://www.yblog.dev/blog/introduction-to-committing-with-conventional-commit</link>
+      <description>Conventional commit is a specific form of committing which gives software developers a uniform system for organizing and describing their changes, making it easier to keep track of updates</description>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (yong bin KIM)</author>
+      <category>commit</category><category>git</category><category>conventional-commit</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/rename-a-case-sensitive-file-in-a-git-repo</guid>
+      <title>How to safely rename a case sensitive file/directory in a git repo?</title>
+      <link>https://www.yblog.dev/blog/rename-a-case-sensitive-file-in-a-git-repo</link>
+      <description>How to safely rename a case sensitive file/directory in a git repo?</description>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (yong bin KIM)</author>
+      <category>git</category><category>rename</category><category>case-sensitive</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/gitignore-ignore-directory-keep-1-file</guid>
+      <title>Ignore all files in a directory except a specific file</title>
+      <link>https://www.yblog.dev/blog/gitignore-ignore-directory-keep-1-file</link>
+      <description>Ignore all files in a directory except a specific file</description>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (yong bin KIM)</author>
+      <category>git</category><category>gitignore</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/git-notes</guid>
+      <title>Key notes while working with git</title>
+      <link>https://www.yblog.dev/blog/git-notes</link>
+      <description>Key notes to save plenty of time while working with git for command-line-developer</description>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (yong bin KIM)</author>
+      <category>git</category><category>git-notes</category><category>git-alias</category><category>git-workflows</category>
+    </item>
+  
+      </channel>
+    </rss>
+  

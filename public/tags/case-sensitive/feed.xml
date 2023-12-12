@@ -1,0 +1,25 @@
+
+    <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <title>YB&#39;s blog - YB&#39;s coding journey</title>
+        <link>https://www.yblog.dev/blog</link>
+        <description>YB&#39;s coding journey - work and life stories through the keyboard of an open-minded Software Engineer</description>
+        <language>en</language>
+        <managingEditor>dydqls5757@gmail.com (yong bin KIM)</managingEditor>
+        <webMaster>dydqls5757@gmail.com (yong bin KIM)</webMaster>
+        <lastBuildDate>Tue, 11 Oct 2022 00:00:00 GMT</lastBuildDate>
+        <atom:link href="https://www.yblog.dev/tags/case-sensitive/feed.xml" rel="self" type="application/rss+xml"/>
+        
+    <item>
+      <guid>https://www.yblog.dev/blog/rename-a-case-sensitive-file-in-a-git-repo</guid>
+      <title>How to safely rename a case sensitive file/directory in a git repo?</title>
+      <link>https://www.yblog.dev/blog/rename-a-case-sensitive-file-in-a-git-repo</link>
+      <description>How to safely rename a case sensitive file/directory in a git repo?</description>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (yong bin KIM)</author>
+      <category>git</category><category>rename</category><category>case-sensitive</category>
+    </item>
+  
+      </channel>
+    </rss>
+  
