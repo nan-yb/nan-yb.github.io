@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ben.codes</title>
+      <link>https://ben.codes/blog</link>
+      <description>My thoughts on software development</description>
+      <language>en-us</language>
+      <managingEditor>me@ben.codes (Benoit Tremblay)</managingEditor>
+      <webMaster>me@ben.codes (Benoit Tremblay)</webMaster>
+      <lastBuildDate>Tue, 08 Mar 2016 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://ben.codes/tags/features/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://ben.codes/blog/code-sample</guid>
+    <title>Sample .md file</title>
+    <link>https://ben.codes/blog/code-sample</link>
+    <description>Example of a markdown file with code blocks and syntax highlighting</description>
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>me@ben.codes (Benoit Tremblay)</author>
+    <category>markdown</category><category>code</category><category>features</category>
+  </item>
+
+    </channel>
+  </rss>

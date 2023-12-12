@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ben.codes</title>
+      <link>https://ben.codes/blog</link>
+      <description>My thoughts on software development</description>
+      <language>en-us</language>
+      <managingEditor>me@ben.codes (Benoit Tremblay)</managingEditor>
+      <webMaster>me@ben.codes (Benoit Tremblay)</webMaster>
+      <lastBuildDate>Sat, 15 Jul 2017 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://ben.codes/tags/canada/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://ben.codes/blog/pictures-of-canada</guid>
+    <title>O Canada</title>
+    <link>https://ben.codes/blog/pictures-of-canada</link>
+    <description>The scenic lands of Canada featuring maple leaves, snow-capped mountains, turquoise lakes and Toronto. Take in the sights in this photo gallery exhibition and see how easy it is to replicate with some MDX magic and tailwind classes.</description>
+    <pubDate>Sat, 15 Jul 2017 00:00:00 GMT</pubDate>
+    <author>me@ben.codes (Benoit Tremblay)</author>
+    <category>holiday</category><category>canada</category><category>images</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ben.codes</title>
+      <link>https://ben.codes/blog</link>
+      <description>My thoughts on software development</description>
+      <language>en-us</language>
+      <managingEditor>me@ben.codes (Benoit Tremblay)</managingEditor>
+      <webMaster>me@ben.codes (Benoit Tremblay)</webMaster>
+      <lastBuildDate>Mon, 21 Dec 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://ben.codes/tags/math/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://ben.codes/blog/deriving-ols-estimator</guid>
+    <title>Deriving the OLS Estimator</title>
+    <link>https://ben.codes/blog/deriving-ols-estimator</link>
+    <description>How to derive the OLS Estimator with matrix notation and a tour of math typesetting using markdown with the help of KaTeX.</description>
+    <pubDate>Mon, 21 Dec 2020 00:00:00 GMT</pubDate>
+    <author>me@ben.codes (Benoit Tremblay)</author>
+    <category>next js</category><category>math</category><category>ols</category>
+  </item>
+
+    </channel>
+  </rss>

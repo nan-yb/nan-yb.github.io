@@ -72,21 +72,18 @@ module.exports = () => {
           hostname: 'picsum.photos',
         },
       ],
-      unoptimized: true,
     },
     experimental: {
       appDir: true,
     },
-    // async headers() {
-    //   return [
-    //     {
-    //       source: '/(.*)',
-    //       headers: securityHeaders,
-    //     },
-    //   ]
-    // },
-    output: 'export',
-    basePath : "/yblog.dev",
+    async headers() {
+      return [
+        {
+          source: '/(.*)',
+          headers: securityHeaders,
+        },
+      ]
+    },
     webpack: (config, options) => {
       config.module.rules.push({
         test: /\.svg$/,
