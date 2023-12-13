@@ -35,8 +35,8 @@ export let FEATURED_POSTS = 5
 export let LOCALES = [
   {
     code: 'en',
-    name: 'English',
-    flag: 'https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/us.svg',
+    name: 'Korea',
+    flag: 'https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/kr.svg',
   },
  
 ]
