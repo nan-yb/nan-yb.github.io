@@ -30,7 +30,7 @@ export function ProfileCardInfo() {
         <div className="flex items-center text-gray-700 dark:text-gray-200">
           <MapPin strokeWidth={1} size={20} />
           <p className="px-2">
-            [::1]:443 - Ha Noi,
+            [::1]:443 - Seoul,
             <span className="absolute ml-1 inline-flex pt-px">
               <Twemoji emoji="flag-korea" />
             </span>
