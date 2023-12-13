@@ -5,8 +5,8 @@
         <link>https://www.yblog.dev/blog</link>
         <description>YB&#39;s coding journey - work and life stories through the keyboard of an open-minded Software Engineer</description>
         <language>en</language>
-        <managingEditor>dydqls5757@gmail.com (yong bin KIM)</managingEditor>
-        <webMaster>dydqls5757@gmail.com (yong bin KIM)</webMaster>
+        <managingEditor>dydqls5757@gmail.com (Kim Yongbin)</managingEditor>
+        <webMaster>dydqls5757@gmail.com (Kim Yongbin)</webMaster>
         <lastBuildDate>Thu, 06 Apr 2023 00:00:00 GMT</lastBuildDate>
         <atom:link href="https://www.yblog.dev/tags/nextjs/feed.xml" rel="self" type="application/rss+xml"/>
         
@@ -16,7 +16,7 @@
       <link>https://www.yblog.dev/blog/getting-spotify-token-to-display-nowplaying-tracks-on-your-site</link>
       <description>How to get Spotify token and use it to display now playing track on your website</description>
       <pubDate>Thu, 06 Apr 2023 00:00:00 GMT</pubDate>
-      <author>dydqls5757@gmail.com (yong bin KIM)</author>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
       <category>spotify</category><category>nowplaying</category><category>spotify-api</category><category>nextjs</category>
     </item>
   

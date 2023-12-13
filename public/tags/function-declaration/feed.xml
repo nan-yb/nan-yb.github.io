@@ -5,8 +5,8 @@
         <link>https://www.yblog.dev/blog</link>
         <description>YB&#39;s coding journey - work and life stories through the keyboard of an open-minded Software Engineer</description>
         <language>en</language>
-        <managingEditor>dydqls5757@gmail.com (yong bin KIM)</managingEditor>
-        <webMaster>dydqls5757@gmail.com (yong bin KIM)</webMaster>
+        <managingEditor>dydqls5757@gmail.com (Kim Yongbin)</managingEditor>
+        <webMaster>dydqls5757@gmail.com (Kim Yongbin)</webMaster>
         <lastBuildDate>Thu, 17 Sep 2020 00:00:00 GMT</lastBuildDate>
         <atom:link href="https://www.yblog.dev/tags/function-declaration/feed.xml" rel="self" type="application/rss+xml"/>
         
@@ -16,7 +16,7 @@
       <link>https://www.yblog.dev/blog/function-declaration-vs-function-expression-in-js</link>
       <description>Learn about the differences between Function Declaration and Function Expression in JavaScript, including their definitions, hoisting behavior, and when to use each method.</description>
       <pubDate>Thu, 17 Sep 2020 00:00:00 GMT</pubDate>
-      <author>dydqls5757@gmail.com (yong bin KIM)</author>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
       <category>javascript</category><category>function</category><category>function-declaration</category><category>function-expression</category><category>anonymous-function</category><category>arrow-function</category><category>es5</category><category>es6</category>
     </item>
   

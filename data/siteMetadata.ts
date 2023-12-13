@@ -8,8 +8,8 @@ export let siteMetadata = {
   github: 'https://github.com/nan-yb',
   x: 'https://x.com/hta218_',
   facebook: 'https://facebook.com/',
-  youtube: 'https://www.youtube.com/@hta218_',
-  linkedin: 'https://www.linkedin.com/in//',
+  youtube: 'https://www.youtube.com/',
+  linkedin: 'https://www.linkedin.com',
   locale: 'en-US',
   analyticsURL: 'https://analytics.yblog.dev/share/jkwRskv0/yblog.dev',
   analytics: {

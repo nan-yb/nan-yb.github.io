@@ -5,8 +5,8 @@
         <link>https://www.yblog.dev/blog</link>
         <description>YB&#39;s coding journey - work and life stories through the keyboard of an open-minded Software Engineer</description>
         <language>en</language>
-        <managingEditor>dydqls5757@gmail.com (yong bin KIM)</managingEditor>
-        <webMaster>dydqls5757@gmail.com (yong bin KIM)</webMaster>
+        <managingEditor>dydqls5757@gmail.com (Kim Yongbin)</managingEditor>
+        <webMaster>dydqls5757@gmail.com (Kim Yongbin)</webMaster>
         <lastBuildDate>Sun, 29 Aug 2021 00:00:00 GMT</lastBuildDate>
         <atom:link href="https://www.yblog.dev/tags/liquid/feed.xml" rel="self" type="application/rss+xml"/>
         
@@ -16,7 +16,7 @@
       <link>https://www.yblog.dev/blog/adding-or-substracting-days-in-liquid</link>
       <description>Adding/substracting days in Shopify&#39;s Liquid template language</description>
       <pubDate>Sun, 29 Aug 2021 00:00:00 GMT</pubDate>
-      <author>dydqls5757@gmail.com (yong bin KIM)</author>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
       <category>liquid</category><category>shopify</category><category>date</category>
     </item>
   

@@ -5,8 +5,8 @@
         <link>https://www.yblog.dev/blog</link>
         <description>YB&#39;s coding journey - work and life stories through the keyboard of an open-minded Software Engineer</description>
         <language>en</language>
-        <managingEditor>dydqls5757@gmail.com (yong bin KIM)</managingEditor>
-        <webMaster>dydqls5757@gmail.com (yong bin KIM)</webMaster>
+        <managingEditor>dydqls5757@gmail.com (Kim Yongbin)</managingEditor>
+        <webMaster>dydqls5757@gmail.com (Kim Yongbin)</webMaster>
         <lastBuildDate>Sun, 01 Jan 2023 00:00:00 GMT</lastBuildDate>
         <atom:link href="https://www.yblog.dev/tags/git/feed.xml" rel="self" type="application/rss+xml"/>
         
@@ -16,7 +16,7 @@
       <link>https://www.yblog.dev/blog/introduction-to-committing-with-conventional-commit</link>
       <description>Conventional commit is a specific form of committing which gives software developers a uniform system for organizing and describing their changes, making it easier to keep track of updates</description>
       <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
-      <author>dydqls5757@gmail.com (yong bin KIM)</author>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
       <category>commit</category><category>git</category><category>conventional-commit</category>
     </item>
   
@@ -26,7 +26,7 @@
       <link>https://www.yblog.dev/blog/rename-a-case-sensitive-file-in-a-git-repo</link>
       <description>How to safely rename a case sensitive file/directory in a git repo?</description>
       <pubDate>Tue, 11 Oct 2022 00:00:00 GMT</pubDate>
-      <author>dydqls5757@gmail.com (yong bin KIM)</author>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
       <category>git</category><category>rename</category><category>case-sensitive</category>
     </item>
   
@@ -36,7 +36,7 @@
       <link>https://www.yblog.dev/blog/gitignore-ignore-directory-keep-1-file</link>
       <description>Ignore all files in a directory except a specific file</description>
       <pubDate>Fri, 27 Aug 2021 00:00:00 GMT</pubDate>
-      <author>dydqls5757@gmail.com (yong bin KIM)</author>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
       <category>git</category><category>gitignore</category>
     </item>
   
@@ -46,7 +46,7 @@
       <link>https://www.yblog.dev/blog/git-notes</link>
       <description>Key notes to save plenty of time while working with git for command-line-developer</description>
       <pubDate>Thu, 12 Aug 2021 00:00:00 GMT</pubDate>
-      <author>dydqls5757@gmail.com (yong bin KIM)</author>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
       <category>git</category><category>git-notes</category><category>git-alias</category><category>git-workflows</category>
     </item>
   

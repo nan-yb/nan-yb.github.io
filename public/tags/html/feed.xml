@@ -5,8 +5,8 @@
         <link>https://www.yblog.dev/blog</link>
         <description>YB&#39;s coding journey - work and life stories through the keyboard of an open-minded Software Engineer</description>
         <language>en</language>
-        <managingEditor>dydqls5757@gmail.com (yong bin KIM)</managingEditor>
-        <webMaster>dydqls5757@gmail.com (yong bin KIM)</webMaster>
+        <managingEditor>dydqls5757@gmail.com (Kim Yongbin)</managingEditor>
+        <webMaster>dydqls5757@gmail.com (Kim Yongbin)</webMaster>
         <lastBuildDate>Tue, 25 Oct 2022 00:00:00 GMT</lastBuildDate>
         <atom:link href="https://www.yblog.dev/tags/html/feed.xml" rel="self" type="application/rss+xml"/>
         
@@ -16,7 +16,7 @@
       <link>https://www.yblog.dev/blog/better-responsive-image-with-srcset-and-sizes-attributes</link>
       <description>A guide to using the srcset and sizes attributes to create responsive images</description>
       <pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate>
-      <author>dydqls5757@gmail.com (yong bin KIM)</author>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
       <category>responsive</category><category>image</category><category>srcset</category><category>sizes</category><category>html</category><category>attributes</category>
     </item>
   

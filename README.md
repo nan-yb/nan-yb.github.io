@@ -38,4 +38,4 @@ Thanks for the free resources 🙏
 
 ---
 
-Copyright (c) 2023 Yongbin Kim (YB) - Alrights reserved.
+Copyright (c) 2023 Kim Yongbin (YB) - Alrights reserved.

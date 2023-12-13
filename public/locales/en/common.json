@@ -1,8 +1,8 @@
 {
   "site_meta_data": {
     "title": "YB's blog - YB's coding journey",
-    "author": "yong bin KIM",
-    "full_name": "yong bin KIM",
+    "author": "Kim Yongbin",
+    "full_name": "Kim Yongbin",
     "header_title": "YB's blog - YB's coding journey",
     "footer_title": "YB's blog - YB's coding journey",
     "description": "YB's coding journey - work and life stories through the keyboard of an open-minded Software Engineer",
@@ -16,7 +16,7 @@
   "menu_resume": "Resume",
   "greeting_message": "Hello, fellow!",
   "introduction": "I'm",
-  "name": "Yongbin Kim",
+  "name": "Kim Yongbin",
   "description": "a passionate Software Engineer in",
   "location": "Seoul, KR",
   "bio_1": "I'm aliased as YB at work.",
@@ -46,7 +46,7 @@
   "menu_resume_2": "My career",
   "analytics": "Traffic & engagement of this site",
   "avatar_description": "avatar",
-  "name_position": "Tuan Anh (YB) Huynh",
+  "name_position": "Yongbin (YB)",
   "description_position": "Learner | Builder",
   "lost_message": "Hmm.. it seems that you're lost",
   "return_message": "But don't worry, you can find plenty of other things on my homepage.",

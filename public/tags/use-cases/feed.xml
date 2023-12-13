@@ -5,8 +5,8 @@
         <link>https://www.yblog.dev/blog</link>
         <description>YB&#39;s coding journey - work and life stories through the keyboard of an open-minded Software Engineer</description>
         <language>en</language>
-        <managingEditor>dydqls5757@gmail.com (yong bin KIM)</managingEditor>
-        <webMaster>dydqls5757@gmail.com (yong bin KIM)</webMaster>
+        <managingEditor>dydqls5757@gmail.com (Kim Yongbin)</managingEditor>
+        <webMaster>dydqls5757@gmail.com (Kim Yongbin)</webMaster>
         <lastBuildDate>Tue, 22 Sep 2020 00:00:00 GMT</lastBuildDate>
         <atom:link href="https://www.yblog.dev/tags/use-cases/feed.xml" rel="self" type="application/rss+xml"/>
         
@@ -16,7 +16,7 @@
       <link>https://www.yblog.dev/blog/tricky-use-case-of-array-map-in-js</link>
       <description>If you are familiar with functional programming, Array.prototype.map must be a function that you work with every day. We encountered a tricky use case of it at Cốc Cốc recently, it took me a while to figure out, and here&#39;s the answer...</description>
       <pubDate>Tue, 22 Sep 2020 00:00:00 GMT</pubDate>
-      <author>dydqls5757@gmail.com (yong bin KIM)</author>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
       <category>javascript</category><category>array</category><category>map</category><category>functional-programming</category><category>use-cases</category>
     </item>
   
