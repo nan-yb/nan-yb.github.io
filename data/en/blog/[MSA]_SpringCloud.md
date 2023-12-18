@@ -53,7 +53,7 @@ Spring Cloud Config는 분산 시스템에서 외부화된 설정 정보를 서�
 
 ### Config-Server
 
-- build.gradle
+- Config-Server 프로젝트의 build.gradle에 dependencies를 추가한다.
 
 ``` gradle
 build.gradle
@@ -102,6 +102,7 @@ spring:
 
 
 - ConfigServerApplication.java
+- @EnableConfigServer를 적용하여 ConfigServer로 설정한다.
 
 ``` java
 import org.springframework.cloud.config.server.EnableConfigServer;
@@ -119,7 +120,7 @@ public class ConfigServerApplication {
 ### Config-Client
 
 
-- build.gradle
+- Config-Client 프로젝트의 build.gradle에 dependencies를 추가한다.
 
 ``` gradle
 
@@ -146,7 +147,7 @@ public class ConfigServerApplication {
   ... 생략
 ```
 
-- bootstrap.yml
+- Config-Client 프로젝트의 application.yml 파일으 이름을 <b>bootstrap.yml</b>로 변경하고 yml파일을 작성한다.
 ``` yml
 
 server:
@@ -165,7 +166,7 @@ spring:
 
 ```
 
-- config-server resource/config/item-service.yml
+- Config-Server 프로젝트의 <b>resource/config/item-service.yml</b> 경로의 item-service.yml 파일을 생성하고 설정정보들을 작성한다.
 
 ``` yml
 
