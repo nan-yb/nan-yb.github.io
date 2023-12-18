@@ -3,7 +3,7 @@ title: '[MSA] Sprint-Cloud Config 설정'
 date: '2023-12-18'
 tags: ['MSA', 'Spring-Cloud', 'Spring-Cloud Config']
 draft: false
-summary: 'A guide to using the srcset and sizes attributes to create responsive images'
+summary: 'inflearn MSA 강좌'
 images: ['/static/images/responsive-image.jpg']
 authors: ['default']
 ---
@@ -15,113 +15,99 @@ import UnsplashPhotoInfo from './UnsplashPhotoInfo.tsx'
 
 <UnsplashPhotoInfo photoURL="https://unsplash.com/photos/TMa0l7fdSW8" author="Dang Cong" />
 
-## Spring-Cloud
+# Spring Cloud
 
 
-Let's take a look at the basic `img` element:
+스프링 프레임워크에서 분산 시스템인 <b>마이크로서비스 아키텍처(MSA)를 구축할 때 유용한 도구를 제공</b>하는 프레임워크입니다.  
+주요 기능으로는 서비스 디스커버리, 로드밸런싱, 구성 관리, 회로 차단, 분산 추적 등이 있습니다.
 
-```html
-<img src="image.jpg" alt="image" />
+
+## Spring Cloud 특징
+
+1. 분산/버전 구성(Distributed/versioned configuration) : Spring Cloud Config
+
+2. 서비스 등록 및 검색(Service registration and discovery) : Spring Cloud Discovery
+
+3. 서비스 간 호출(Service-to-service calls) : Spring Cloud Discovery
+
+4. 라우팅(Routing) : Spring Cloud Routing
+
+5. 로드 밸런싱(Load balancing) : Spring Cloud Routing
+
+6. 서킷 브레이커(Circuit Breakers) : Spring Cloud Circuit Breaker
+
+7. 글로벌 락 (Global locks) & 지도자 선출, 클러스터 상태 (Leadership election and cluster state) : Spring Cloud Config
+
+8. 분산 메시징 (Distributed messaging) : Spring Cloud Messaging
+
+
+## Spring Config
+
+Spring Cloud Config는 분산 시스템에서 외부화된 설정 정보를 서버 및 클라이언트에게 제공하는 시스템이다. 설정 서버는(Config Server)는 외부에서 모든 환경에 대한 정보들을 관리해주는 중앙 서버이다. 기본적으로 설정 정보 저장을 위해 git을 사용하도록 되어있어서 손쉽게 외부 도구들로 접근 가능하고, 버전 관리도 가능하다.
+
+- Spring Cloud Config Server(설정 서버): 버전 관리 레포지토리로 백업된 중앙 집중식 구성 노출을 지원한다.
+- Spring Cloud Config Client(설정 클라이언트) : 애플리케이션이 설정 서버에 연결하도록 지원한다 
+
+## Spring Config 적용
+
+- build.gradle
+
+``` gradle
+build.gradle
+
+  ... 생략
+
+  ext {
+      set('springCloudVersion', "2021.0.2")
+  }
+
+  dependencies {
+      implementation 'org.springframework.boot:spring-boot-starter-web'
+      implementation 'org.springframework.cloud:spring-cloud-config-server'
+      implementation 'org.springframework.boot:spring-boot-starter-actuator'
+
+      testImplementation 'org.springframework.boot:spring-boot-starter-test'
+  }
+
+  dependencyManagement {
+      imports {
+          mavenBom "org.springframework.cloud:spring-cloud-dependencies:${springCloudVersion}"
+      }
+  }
+
+  ... 생략
 ```
 
-The `src` attribute is used to specify the image source.
-Web browsers will download the image and display it in all devices with the same size
-no matter what the device's screen size, pixel density, or viewport size is.
+- application.yml
 
-So if you have a `2000px` wide image, it will be displayed as a `2000px` wide image on a 4K monitor - which is fine,
-but it will also be downloaded and displayed as a `2000px` wide image on a `320px` wide mobile phone screen - of course, it will fit the screen,
-but it's unnecessarily large and will take a long time to download.
-
-That's where the `srcset` and `sizes` attributes come in.
-We will use them to provide different image sources/sizes for different devices and let the browser decide which image to download and display.
-
-```html
-<img
-  src="image.jpg"
-  srcset="image-320.jpg 320w, image-640.jpg 640w, image-1280.jpg 1280w"
-  sizes="(max-width: 320px) 280px, (max-width: 640px) 640px, 1280px"
-  alt="image"
-/>
+``` yml
+server:
+  port: 8080
+spring:
+  application:
+    name: config-server
+  profiles:
+    active: native
+  cloud:
+    config:
+      server:
+        native:
+          search-locations: classpath:/config
+        encrypt:
+          enabled: false
 ```
 
-The `srcset` and `sizes` values look a bit complicated (and easy to forget <Twemoji emoji="face-with-rolling-eyes" />), but they are not that hard to understand.
 
-## srcset
+- ConfigServerApplication.java
 
-The `srcset` attribute is used to specify the image sources and their sizes.
-The image sources are separated by **commas**, and each image source is followed by its size in pixels with the following parts:
+``` java
+import org.springframework.cloud.config.server.EnableConfigServer;
 
-1. `image-source` - the image's URL (e.g. `image-320.jpg`)
-2. A **space**
-3. `image-size` - the image's **intrinsic size** in pixels (e.g. `320w`) - notice the `w` at the end of the size instead of `px` to indicate that the size is in pixels.
-
-In the example above, we have three image sources: `image-320.jpg`, `image-640.jpg`, and `image-1280.jpg`.
-
-- The first image source is `image-320.jpg` and it's `320px` wide.
-- The second image source is `image-640.jpg` and it's `640px` wide.
-- The third image source is `image-1280.jpg` and it's `1280px` wide.
-
-So now we have a set of images with different sizes, but how do we tell the browser which image to use <Twemoji emoji="thinking-face" />?
-
-Here comes the `sizes` attribute.
-
-## sizes
-
-The `sizes` attribute defines a set of media conditions and help the browser decide which image to use when the conditions are met.
-
-Each size is separated by **commas**, and being constructed with the following parts:
-
-1. A **media condition** - a set of media features and values that define the condition (e.g. `(max-width: 320px)`).
-   Notice that the condition is wrapped in parentheses, like a css media query.
-   In this case, the condition is that the viewport's width is _less than or equal to `320px`_.
-2. A **space**
-3. A **size** - the size of the image to use when the condition is met (e.g. `280px`).
-
-And here are the steps of how the browser decides which image to use:
-
-1. Looks at the device's screen size.
-2. Looks at the `sizes` attribute and finds the first condition that matches the device's screen size.
-3. Uses the size defined in the condition to find the image source with the same size in the `srcset` attribute, if there isn't one, it will use the first image that is larger than the size defined in the condition.
-4. Load the image and display it.
-
-And that's it, we have created a responsive image <Twemoji emoji="partying-face" />.
-
-Take a look at the example above, let's say we are on a mobile phone with a screen size of `400px` wide.
-
-- The first condition match that screen is `(max-width: 640px)`.
-- The size defined in the condition is `640px`.
-- The image source with the same size in the `srcset` attribute is `image-640.jpg`.
-- The browser will load the image and display it.
-
-## Beyond the basics
-
-- For the `sizes` attribute, you can use `vw` instead of `px` to define the size.
-	This is useful when you want to use the viewport width as the size.
-	For example, if you want to use the viewport width as the size, you can use `100vw` as the size.
-
-- Combine `srcset` & `sizes` with `loading="lazy"` to improve performance.
-	When the `loading` attribute is set to `lazy`, the browser will not load the image until it is visible in the viewport.
-	This is useful when you have a lot of images on the page and you want to improve the page's performance.
-
-- Better add `width` and `height` attributes to the `img` element.
-	When the `width` and `height` attributes are added to the `img` element, the browser will reserve the space for the image before it is loaded.
-	This is useful to prevent layout shifts and improve the experience to your visitors.
-
-- And don't forget to add a fallback image with the `src` attribute.
-	When the browser doesn't support the `srcset` and `sizes` attributes, it will use the image source defined in the `src` attribute.
-
-At the end, the `img` element should look like this:
-
-```html
-<img
-	src="image.jpg"
-	srcset="image-320.jpg 320w, image-640.jpg 640w, image-1280.jpg 1280w"
-	sizes="(max-width: 320px) 280px, (max-width: 640px) 640px, 1280px"
-	loading="lazy"
-	alt="image alt text"
-	width="1280"
-	height="720"
-/>
+@EnableConfigServer // Config Server 적용 Annotation
+@SpringBootApplication
+public class ConfigServerApplication {
+	public static void main(String[] args) {
+		SpringApplication.run(ConfigServerApplication.class, args);
+	}
+}
 ```
-
-Happy coding <Twemoji emoji="clinking-beer-mugs" />.
