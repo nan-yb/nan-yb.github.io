@@ -7,159 +7,279 @@
         <language>en</language>
         <managingEditor>dydqls5757@gmail.com (Kim Yongbin)</managingEditor>
         <webMaster>dydqls5757@gmail.com (Kim Yongbin)</webMaster>
-        <lastBuildDate>Mon, 04 Sep 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 00:00:00 GMT</lastBuildDate>
         <atom:link href="https://www.yblog.dev/feed.xml" rel="self" type="application/rss+xml"/>
         
     <item>
-      <guid>https://www.yblog.dev/blog/does-promise-all-run-in-parallel-or-sequential</guid>
-      <title>Does JavaScript Promise.all() run in parallel or sequential?</title>
-      <link>https://www.yblog.dev/blog/does-promise-all-run-in-parallel-or-sequential</link>
-      <description>JavaScript is a single-threaded programming language, so it can&#39;t run multiple things at the same time, Promise.all() actually runs promises concurrently, not in parallel!. Let&#39;s dive in to see how it works.</description>
-      <pubDate>Mon, 04 Sep 2023 00:00:00 GMT</pubDate>
+      <guid>https://www.yblog.dev/blog/[MSA]_SpringCloud</guid>
+      <title>[MSA] Sprint-Cloud Config 설정</title>
+      <link>https://www.yblog.dev/blog/[MSA]_SpringCloud</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>javascript</category><category>promise</category><category>parallel</category><category>sequential</category><category>concurrently</category>
+      <category>MSA</category><category>Spring-Cloud</category><category>Spring-Cloud Config</category>
     </item>
   
     <item>
-      <guid>https://www.yblog.dev/blog/render-blocking-css-and-chrome-performance-api</guid>
-      <title>Eliminating Render Blocking CSS and measuring page rendering time with Performance API</title>
-      <link>https://www.yblog.dev/blog/render-blocking-css-and-chrome-performance-api</link>
-      <description>Learn how to improve your website&#39;s performance and enhance user experience by avoiding render blocking CSS. Using the Chrome Performance API to measure and optimize page rendering time.</description>
-      <pubDate>Sat, 11 Mar 2023 00:00:00 GMT</pubDate>
+      <guid>https://www.yblog.dev/blog/[MSA]_MSA-Architecture</guid>
+      <title>MSA 소개</title>
+      <link>https://www.yblog.dev/blog/[MSA]_MSA-Architecture</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Sun, 17 Dec 2023 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>render-blocking-resources</category><category>render-blocking-css</category><category>perfomance</category><category>chrome-performance-api</category>
+      <category>MSA</category>
     </item>
   
     <item>
-      <guid>https://www.yblog.dev/blog/shopify-migrate-files-to-new-store-with-file-api-and-nodejs</guid>
-      <title>Successfully migrate all Shopify store assets to a new storefront</title>
-      <link>https://www.yblog.dev/blog/shopify-migrate-files-to-new-store-with-file-api-and-nodejs</link>
-      <description>Learn how to migrate your assets from an old Shopify store to a new one in a few simple steps. This guide will show you how to retrieve and download your images using GraphQL and Node.js, and upload them to your new store with ease.</description>
-      <pubDate>Sat, 25 Feb 2023 00:00:00 GMT</pubDate>
+      <guid>https://www.yblog.dev/blog/[ETC]_MultiModule</guid>
+      <title>Multi Module</title>
+      <link>https://www.yblog.dev/blog/[ETC]_MultiModule</link>
+      
+      <pubDate>Sat, 05 Nov 2022 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>shopify</category><category>assets</category><category>file-api</category><category>migration</category><category>graphql</category><category>nodejs</category>
+      <category>Multi Module</category><category>멀티 모듈</category>
     </item>
   
     <item>
-      <guid>https://www.yblog.dev/blog/introduction-to-committing-with-conventional-commit</guid>
-      <title>Introduction to Committing with Conventional Commit</title>
-      <link>https://www.yblog.dev/blog/introduction-to-committing-with-conventional-commit</link>
-      <description>Conventional commit is a specific form of committing which gives software developers a uniform system for organizing and describing their changes, making it easier to keep track of updates</description>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
-      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>commit</category><category>git</category><category>conventional-commit</category>
-    </item>
-  
-    <item>
-      <guid>https://www.yblog.dev/blog/better-responsive-image-with-srcset-and-sizes-attributes</guid>
-      <title>Better responsive images with srcset and sizes attributes</title>
-      <link>https://www.yblog.dev/blog/better-responsive-image-with-srcset-and-sizes-attributes</link>
+      <guid>https://www.yblog.dev/blog/[Docker]_DockerCompose</guid>
+      <title>[Docker] Docker Compose</title>
+      <link>https://www.yblog.dev/blog/[Docker]_DockerCompose</link>
       <description>A guide to using the srcset and sizes attributes to create responsive images</description>
       <pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>responsive</category><category>image</category><category>srcset</category><category>sizes</category><category>html</category><category>attributes</category>
+      <category>docker-compose</category><category>docker</category><category>devops</category><category>도커</category>
     </item>
   
     <item>
-      <guid>https://www.yblog.dev/blog/use-https-in-local-development</guid>
-      <title>How to create an HTTPS server in localhost?</title>
-      <link>https://www.yblog.dev/blog/use-https-in-local-development</link>
-      <description>The simplest way to set up an HTTPS server in Nodejs application when developing locally</description>
-      <pubDate>Sat, 05 Mar 2022 00:00:00 GMT</pubDate>
+      <guid>https://www.yblog.dev/blog/[Docker]_DockerContainer</guid>
+      <title>[Docker] Docker Container</title>
+      <link>https://www.yblog.dev/blog/[Docker]_DockerContainer</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>https</category><category>localhost</category><category>nodejs</category><category>open-ssl</category><category>443</category><category>mac-os</category><category>koajs</category>
+      <category>docker-container</category><category>docker</category><category>devops</category><category>도커</category>
     </item>
   
     <item>
-      <guid>https://www.yblog.dev/blog/shopify-section-rendering-apis-notes</guid>
-      <title>Mastering Section Rendering APIs in Shopify Online Store 2.0</title>
-      <link>https://www.yblog.dev/blog/shopify-section-rendering-apis-notes</link>
-      <description>Learn how to leverage Section Rendering APIs to improve your Shopify store&#39;s performance and create dynamic, context-specific sections. Discover tips for querying dynamic section markup, including product and collection context</description>
-      <pubDate>Thu, 23 Sep 2021 00:00:00 GMT</pubDate>
+      <guid>https://www.yblog.dev/blog/[Docker]_DockerDaemon</guid>
+      <title>[Docker] Docker Daemon</title>
+      <link>https://www.yblog.dev/blog/[Docker]_DockerDaemon</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>shopify</category><category>section</category><category>section-rendering-apis</category><category>key-notes</category>
+      <category>docker-daemon</category><category>docker</category><category>devops</category><category>도커</category>
     </item>
   
     <item>
-      <guid>https://www.yblog.dev/blog/embed-script-using-github-and-jsdelivr</guid>
-      <title>Embedding scripts in web pages made easy with Github and jsDelivr</title>
-      <link>https://www.yblog.dev/blog/embed-script-using-github-and-jsdelivr</link>
-      <description>Learn how to embed scripts and styles in your web pages without the need to modify your site&#39;s existing code. Use Github to host your script and style files, and jsDelivr as a CDN to deliver them to your web page.</description>
-      <pubDate>Sun, 05 Sep 2021 00:00:00 GMT</pubDate>
+      <guid>https://www.yblog.dev/blog/[Docker]_DockerImage</guid>
+      <title>[Docker] Docker Image</title>
+      <link>https://www.yblog.dev/blog/[Docker]_DockerImage</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>tutorial</category><category>sharing</category><category>embed</category><category>github</category><category>jsdelivr</category>
+      <category>docker-image</category><category>docker</category><category>devops</category><category>도커</category>
     </item>
   
     <item>
-      <guid>https://www.yblog.dev/blog/prevent-layout-shift-while-show-hide-scrollbar-on-window</guid>
-      <title>Prevent layout shift when toggling scrollbar on Window</title>
-      <link>https://www.yblog.dev/blog/prevent-layout-shift-while-show-hide-scrollbar-on-window</link>
-      <description>When toggling the scrollbar on the Window, the layout shifts. This is because the scrollbar is added to the Window. How to prevent this with CSS?</description>
-      <pubDate>Mon, 16 Aug 2021 00:00:00 GMT</pubDate>
+      <guid>https://www.yblog.dev/blog/[Javascript]_javascript_Array_Method</guid>
+      <title>[Javascript] Array 자주쓰는 메서드 정리</title>
+      <link>https://www.yblog.dev/blog/[Javascript]_javascript_Array_Method</link>
+      
+      <pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>css</category><category>tricks</category><category>layout-shift</category><category>scrollbar</category><category>window</category>
+      <category>Javascript</category><category>Array</category>
     </item>
   
     <item>
-      <guid>https://www.yblog.dev/blog/git-notes</guid>
-      <title>Key notes while working with git</title>
-      <link>https://www.yblog.dev/blog/git-notes</link>
-      <description>Key notes to save plenty of time while working with git for command-line-developer</description>
-      <pubDate>Thu, 12 Aug 2021 00:00:00 GMT</pubDate>
+      <guid>https://www.yblog.dev/blog/[Spring]_AOP</guid>
+      <title>[Spring] AOP</title>
+      <link>https://www.yblog.dev/blog/[Spring]_AOP</link>
+      
+      <pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>git</category><category>git-notes</category><category>git-alias</category><category>git-workflows</category>
+      <category>spring</category><category>spring-aop</category><category>aop</category>
     </item>
   
     <item>
-      <guid>https://www.yblog.dev/blog/drag-n-drop-api-keynotes</guid>
-      <title>Drag and Drop API keynotes</title>
-      <link>https://www.yblog.dev/blog/drag-n-drop-api-keynotes</link>
-      <description>Some keynotes to keep in mind when working with Drag and Drop APIs in Javascript</description>
-      <pubDate>Sun, 25 Oct 2020 00:00:00 GMT</pubDate>
+      <guid>https://www.yblog.dev/blog/[Spring]_DI-Dependency_Injection</guid>
+      <title>[Spring] DI</title>
+      <link>https://www.yblog.dev/blog/[Spring]_DI-Dependency_Injection</link>
+      
+      <pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>drag-and-drop</category><category>dnd</category><category>keynotes</category><category>api</category><category>javascript</category>
+      <category>spring</category><category>spring-di</category><category>DI</category>
     </item>
   
     <item>
-      <guid>https://www.yblog.dev/blog/tricky-use-case-of-array-map-in-js</guid>
-      <title>Tricky use case of Array.prototype.map in JS</title>
-      <link>https://www.yblog.dev/blog/tricky-use-case-of-array-map-in-js</link>
-      <description>If you are familiar with functional programming, Array.prototype.map must be a function that you work with every day. We encountered a tricky use case of it at Cốc Cốc recently, it took me a while to figure out, and here&#39;s the answer...</description>
-      <pubDate>Tue, 22 Sep 2020 00:00:00 GMT</pubDate>
+      <guid>https://www.yblog.dev/blog/[ETC]-Markdown</guid>
+      <title>MarkDown</title>
+      <link>https://www.yblog.dev/blog/[ETC]-Markdown</link>
+      
+      <pubDate>Sat, 03 Sep 2022 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>javascript</category><category>array</category><category>map</category><category>functional-programming</category><category>use-cases</category>
+      <category>Markdown</category><category>md</category><category>마크다운</category>
     </item>
   
     <item>
-      <guid>https://www.yblog.dev/blog/function-declaration-vs-function-expression-in-js</guid>
-      <title>When to use Function Declaration vs Function Expression in JavaScript?</title>
-      <link>https://www.yblog.dev/blog/function-declaration-vs-function-expression-in-js</link>
-      <description>Learn about the differences between Function Declaration and Function Expression in JavaScript, including their definitions, hoisting behavior, and when to use each method.</description>
-      <pubDate>Thu, 17 Sep 2020 00:00:00 GMT</pubDate>
+      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-05-05-Graph</guid>
+      <title>[알고리즘] 그래프</title>
+      <link>https://www.yblog.dev/blog/[Algorithm]_2021-05-05-Graph</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>javascript</category><category>function</category><category>function-declaration</category><category>function-expression</category><category>anonymous-function</category><category>arrow-function</category><category>es5</category><category>es6</category>
+      <category>algorithm</category><category>알고리즘</category><category>그래프</category><category>graph</category>
     </item>
   
     <item>
-      <guid>https://www.yblog.dev/blog/set-up-path-aliases-in-nodejs</guid>
-      <title>Simplify your Node.js project with module aliases</title>
-      <link>https://www.yblog.dev/blog/set-up-path-aliases-in-nodejs</link>
-      <description>Tired of dealing with complex file paths in your Node.js project? Learn how to set up module aliases using TypeScript and module-alias package to simplify your imports and improve your development experience.</description>
-      <pubDate>Thu, 27 Aug 2020 00:00:00 GMT</pubDate>
+      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-05-05-bfs</guid>
+      <title>[알고리즘] BFS</title>
+      <link>https://www.yblog.dev/blog/[Algorithm]_2021-05-05-bfs</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>nodejs</category><category>typescript</category><category>javascript</category><category>alias</category><category>path-aliases</category><category>tsconfig</category>
+      <category>algorithm</category><category>알고리즘</category><category>BFS</category>
     </item>
   
     <item>
-      <guid>https://www.yblog.dev/blog/nodejs-fetch-json-with-https</guid>
-      <title>How to make HTTP requests in Node.js without installing external libraries</title>
-      <link>https://www.yblog.dev/blog/nodejs-fetch-json-with-https</link>
-      <description>Learn how to make HTTP requests in Node.js without adding unnecessary dependencies to your project using the built-in https module. Follow these simple steps to easily fetch JSON data from external APIs and servers.</description>
-      <pubDate>Tue, 18 Aug 2020 00:00:00 GMT</pubDate>
+      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-05-05-dfs</guid>
+      <title>[알고리즘] DFS</title>
+      <link>https://www.yblog.dev/blog/[Algorithm]_2021-05-05-dfs</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>nodejs</category><category>request</category><category>json</category><category>https</category><category>built-in-module</category>
+      <category>algorithm</category><category>알고리즘</category><category>DFS</category>
     </item>
   
-      </channel>
-    </rss>
+    <item>
+      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-05-05-greedy</guid>
+      <title>[알고리즘] 탐욕 알고리즘</title>
+      <link>https://www.yblog.dev/blog/[Algorithm]_2021-05-05-greedy</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>algorithm</category><category>알고리즘</category><category>탐욕</category><category>greedy</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-bubbleSort</guid>
+      <title>[알고리즘] 버블정렬</title>
+      <link>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-bubbleSort</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>algorithm</category><category>알고리즘</category><category>버블정렬</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-dp,dc</guid>
+      <title>[알고리즘] 동적계획법 , 분할정복</title>
+      <link>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-dp,dc</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>algorithm</category><category>알고리즘</category><category>동적계획법</category><category>분할정복</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-heapSort</guid>
+      <title>[알고리즘] 힙정렬</title>
+      <link>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-heapSort</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>algorithm</category><category>알고리즘</category><category>힙정렬</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-insertionSort</guid>
+      <title>[알고리즘] 삽입정렬</title>
+      <link>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-insertionSort</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>algorithm</category><category>알고리즘</category><category>삽입정렬</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-mergeSort</guid>
+      <title>[알고리즘] 병합정렬</title>
+      <link>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-mergeSort</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>algorithm</category><category>알고리즘</category><category>병합정렬</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-selectionSort</guid>
+      <title>[알고리즘] 선택정렬</title>
+      <link>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-selectionSort</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>algorithm</category><category>알고리즘</category><category>선택정렬</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-seqSearchAndBinarySearch</guid>
+      <title>[알고리즘] 순차탐색 , 이진탐색</title>
+      <link>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-seqSearchAndBinarySearch</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>algorithm</category><category>알고리즘</category><category>순차탐색</category><category>이진탐색</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-04-04-heap</guid>
+      <title>[자료구조] 힙</title>
+      <link>https://www.yblog.dev/blog/[Algorithm]_2021-04-04-heap</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Sun, 04 Apr 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>자료구조</category><category>힙</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-04-03-tree</guid>
+      <title>[자료구조] 트리</title>
+      <link>https://www.yblog.dev/blog/[Algorithm]_2021-04-03-tree</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Sat, 03 Apr 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>자료구조</category><category>트리</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-03-28-stackAndQuque</guid>
+      <title>[자료구조] 스택 , 큐</title>
+      <link>https://www.yblog.dev/blog/[Algorithm]_2021-03-28-stackAndQuque</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>자료구조</category><category>스택</category><category>큐</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-03-29-linkedList</guid>
+      <title>[자료구조] 연결리스트</title>
+      <link>https://www.yblog.dev/blog/[Algorithm]_2021-03-29-linkedList</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>자료구조</category><category>연결리스트</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-03-28-array</guid>
+      <title>[자료구조] 배열</title>
+      <link>https://www.yblog.dev/blog/[Algorithm]_2021-03-28-array</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>자료구조</category><category>배열</category>
+    </item>
+  
+  </channel>
+</rss>
   
