@@ -18,7 +18,7 @@ authors: ['default']
 
 #### 직접 눈으로 보면 더 이해가 쉽다: https://visualgo.net/en/sorting
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Selection-Sort-Animation.gif" width=100>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Selection-Sort-Animation.gif" width="100"/>
 
 출처: https://en.wikipedia.org/wiki/Selection_sort
 
@@ -59,7 +59,3 @@ def selection_sort(data):
 
 ```
 
-### 4. 알고리즘 분석
-
-- 반복문이 두 개 O($n^2$)
-  - 실제로 상세하게 계산하면, <font size=5em>$\frac { n * (n - 1)}{ 2 }$</font>

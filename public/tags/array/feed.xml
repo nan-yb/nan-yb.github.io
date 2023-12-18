@@ -7,9 +7,19 @@
         <language>en</language>
         <managingEditor>dydqls5757@gmail.com (Kim Yongbin)</managingEditor>
         <webMaster>dydqls5757@gmail.com (Kim Yongbin)</webMaster>
-        <lastBuildDate>Tue, 22 Sep 2020 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Oct 2022 00:00:00 GMT</lastBuildDate>
         <atom:link href="https://www.yblog.dev/tags/array/feed.xml" rel="self" type="application/rss+xml"/>
         
+    <item>
+      <guid>https://www.yblog.dev/blog/[Javascript]_javascript_Array_Method</guid>
+      <title>[Javascript] Array 자주쓰는 메서드 정리</title>
+      <link>https://www.yblog.dev/blog/[Javascript]_javascript_Array_Method</link>
+      
+      <pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>Javascript</category><category>Array</category>
+    </item>
+  
     <item>
       <guid>https://www.yblog.dev/blog/tricky-use-case-of-array-map-in-js</guid>
       <title>Tricky use case of Array.prototype.map in JS</title>

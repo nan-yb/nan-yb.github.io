@@ -8,7 +8,7 @@
         <managingEditor>dydqls5757@gmail.com (Kim Yongbin)</managingEditor>
         <webMaster>dydqls5757@gmail.com (Kim Yongbin)</webMaster>
         <lastBuildDate>Sat, 03 Sep 2022 00:00:00 GMT</lastBuildDate>
-        <atom:link href="https://www.yblog.dev/tags/markdown/feed.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.yblog.dev/tags/md/feed.xml" rel="self" type="application/rss+xml"/>
         
     <item>
       <guid>https://www.yblog.dev/blog/[ETC]-Markdown</guid>
@@ -18,16 +18,6 @@
       <pubDate>Sat, 03 Sep 2022 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
       <category>Markdown</category><category>md</category><category>마크다운</category>
-    </item>
-  
-    <item>
-      <guid>https://www.yblog.dev/blog/markdown-code-block-syntax</guid>
-      <title>Markdown Code block&#39;s basic and advanced syntaxes</title>
-      <link>https://www.yblog.dev/blog/markdown-code-block-syntax</link>
-      <description>Markdown Code block&#39;s basic and advanced syntaxes</description>
-      <pubDate>Thu, 09 Sep 2021 00:00:00 GMT</pubDate>
-      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>markdown</category><category>code-block</category><category>syntax</category>
     </item>
   
       </channel>

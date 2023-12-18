@@ -17,7 +17,7 @@ authors: ['default']
 
 #### 직접 눈으로 보면 더 이해가 쉽다: https://visualgo.net/en/sorting
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif" width=500/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif" width="500"/>
 
 출처: [위키피디아](https://ko.wikipedia.org/wiki/%ED%95%A9%EB%B3%91_%EC%A0%95%EB%A0%AC)
 
@@ -96,16 +96,6 @@ def mergesplit(data):
 
 ```
 
-### 4. 알고리즘 분석
 
-- 알고리즘 분석은 쉽지 않음, <font color='#BF360C'>이 부분은 참고로만 알아두자.</font>
-  - 다음을 보고 이해해보자
-    - 몇 단계 깊이까지 만들어지는지를 depth 라고 하고 i로 놓자. 맨 위 단계는 0으로 놓자.
-      - 다음 그림에서 n/$2^2$ 는 2단계 깊이라고 해보자.
-      - 각 단계에 있는 하나의 노드 안의 리스트 길이는 n/$2^2$ 가 된다.
-      - 각 단계에는 $2^i$ 개의 노드가 있다.
-    - 따라서, 각 단계는 항상 <font size=4em>$2^i * \frac { n }{ 2^i } = O(n)$</font>
-    - 단계는 항상 $log_2 n$ 개 만큼 만들어짐, 시간 복잡도는 결국 O(log n), 2는 역시 상수이므로 삭제
-    - 따라서, 단계별 시간 복잡도 O(n) \* O(log n) = O(n log n)
 
 <img src="https://www.fun-coding.org/00_Images/mergesortcomplexity.png" />

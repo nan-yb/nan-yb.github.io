@@ -21,7 +21,7 @@ authors: ['default']
 - DFS 방식: A - B - D - E - F - C - G - H - I - J
   - 한 노드의 자식을 타고 끝까지 순회한 후, 다시 돌아와서 다른 형제들의 자식을 타고 내려가며 순화함
 
-<img src="https://www.fun-coding.org/00_Images/BFSDFS.png" width=700>
+<img src="https://www.fun-coding.org/00_Images/BFSDFS.png" width="700" /> 
 
 ### 2. 파이썬으로 그래프를 표현하는 방법
 
@@ -29,7 +29,7 @@ authors: ['default']
 
 ### 그래프 예와 파이썬 표현
 
-<img src="https://www.fun-coding.org/00_Images/dfsgraph.png" width=700>
+<img src="https://www.fun-coding.org/00_Images/dfsgraph.png" width="700" />
 
 ### 3. DFS 알고리즘 구현
 
@@ -57,7 +57,7 @@ def dfs(graph, start_node):
 - 자료구조 큐를 활용함
   - need_visit 큐와 visited 큐, 두 개의 큐를 생성
 
-<img src="https://www.fun-coding.org/00_Images/bfsqueue.png" width=700>
+<img src="https://www.fun-coding.org/00_Images/bfsqueue.png" width="700" />
 
 ```python
 def bfs(graph, start_node):
@@ -76,7 +76,7 @@ def bfs(graph, start_node):
 
 ```
 
-<img src="https://www.fun-coding.org/00_Images/bfsgraph.png" width=700>
+<img src="https://www.fun-coding.org/00_Images/bfsgraph.png" width="700" />
 
 ### 4. 시간 복잡도
 

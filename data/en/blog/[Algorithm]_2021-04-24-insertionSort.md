@@ -44,5 +44,4 @@ def insertion_sort(data):
 ### 3. 알고리즘 분석
 
 - 반복문이 두 개 O($n^2$)
-  - 최악의 경우, <font size=5em>$\frac { n * (n - 1)}{ 2 }$</font>
 - 완전 정렬이 되어 있는 상태라면 최선은 O(n)

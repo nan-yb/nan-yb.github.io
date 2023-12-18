@@ -26,9 +26,8 @@ authors: ['default']
 
 - 링크드 리스트 기본 구조와 용어
   - 노드(Node): 데이터 저장 단위 (데이터값, 포인터) 로 구성
-  - 포인터(pointer): 각 노드 안에서, 다음이나 이전의 노드와의 연결 정보를 가지고 있는 공간
+  - 포인터(pointer): 각 노드 안에서, 다음이나 이전의 노드와의 연결 정보를 가지고 있는 공간  
 
-<br>
 * 일반적인 링크드 리스트 형태
 <img src="https://www.fun-coding.org/00_Images/linkedlist.png" />
 (출처: wikipedia, https://en.wikipedia.org/wiki/Linked_list)

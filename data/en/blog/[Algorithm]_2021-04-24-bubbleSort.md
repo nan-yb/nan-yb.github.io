@@ -23,7 +23,7 @@ authors: ['default']
 
 #### 직접 눈으로 보면 더 이해가 쉽다: https://visualgo.net/en/sorting
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif" width=600/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif" width="600"/>
 
 > 출처: https://en.wikipedia.org/wiki/Bubble_sort
 

@@ -55,7 +55,6 @@ $docker run -d -p 80 nginx
 ### 도커 볼륨
 
 - 도커가 제공하는 볼륨관리 기능을 활용하여 데이터를 보존
-  기본적으로 /var/lib/docker/volume/${volume-name}/\_data 에저장
 
 ```
 # web-volume 도커 볼륨 생성

@@ -117,7 +117,6 @@ _This is Emphasis_
     - 2-1-1 번
 
 **Note:** ( \* , - , + ) 은 순서에 상관없이 혼용하여 사용이 가능하다.
-{: .notice--info}
 
 ### 2-5 이미지 및 하이퍼링크
 
@@ -147,7 +146,6 @@ _This is Emphasis_
 [Google](http://www.google.com)
 
 **Note:** 이미지에 링크를 걸어 사용도 가능하다.
-{: .notice--info}
 
 ```
 [![Naver](images/naver.com)](http://naver.com)
@@ -194,9 +192,4 @@ Colons(:) 을 사용하여 셀을 정렬 할 수 있다.
 | ------ | ------ |
 | CELL 1 | CELL 2 |
 
-{% if page.comments != false %}
 
-<div id= "post-disqus" class="container">
-  {% include disqus.html %}
-</div>
-{% endif %}

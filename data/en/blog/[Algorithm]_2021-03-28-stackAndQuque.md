@@ -34,9 +34,8 @@ authors: ['default']
 - 주요 기능
 
   - push(): 데이터를 스택에 넣기
-  - pop(): 데이터를 스택에서 꺼내기
+  - pop(): 데이터를 스택에서 꺼내기  
 
-  <br>
   <img src="http://www.fun-coding.org/00_Images/stack.png" />
 
 ## 3. 자료 구조 스택의 장단점

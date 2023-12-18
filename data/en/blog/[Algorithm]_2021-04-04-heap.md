@@ -13,7 +13,7 @@ authors: ['default']
 - 힙: 데이터에서 최대값과 최소값을 빠르게 찾기 위해 고안된 완전 이진 트리(Complete Binary Tree)
   - 완전 이진 트리: 노드를 삽입할 때 최하단 왼쪽 노드부터 차례대로 삽입하는 트리
 
-<img src="https://www.fun-coding.org/00_Images/completebinarytree.png" width=300>
+<img src="https://www.fun-coding.org/00_Images/completebinarytree.png" width="300" />
 
 - 힙을 사용하는 이유
   - 배열에 데이터를 넣고, 최대값과 최소값을 찾으려면 O(n) 이 걸림
@@ -46,13 +46,13 @@ authors: ['default']
 ### 힙에 데이터 삽입하기 - 기본 동작
 
 - 힙은 완전 이진 트리이므로, 삽입할 노드는 기본적으로 왼쪽 최하단부 노드부터 채워지는 형태로 삽입
-  <img src="https://www.fun-coding.org/00_Images/heap_ordinary.png">
+  <img src="https://www.fun-coding.org/00_Images/heap_ordinary.png"/>
 
 ### 힙에 데이터 삽입하기 - 삽입할 데이터가 힙의 데이터보다 클 경우 (Max Heap 의 예)
 
 - 먼저 삽입된 데이터는 완전 이진 트리 구조에 맞추어, 최하단부 왼쪽 노드부터 채워짐
 - 채워진 노드 위치에서, 부모 노드보다 값이 클 경우, 부모 노드와 위치를 바꿔주는 작업을 반복함 (swap)
-  <img src="https://www.fun-coding.org/00_Images/heap_insert.png">
+  <img src="https://www.fun-coding.org/00_Images/heap_insert.png"/>
 
 ### 힙의 데이터 삭제하기 (Max Heap 의 예)
 
@@ -61,7 +61,7 @@ authors: ['default']
 - 상단의 데이터 삭제시, 가장 최하단부 왼쪽에 위치한 노드 (일반적으로 가장 마지막에 추가한 노드) 를 root 노드로 이동
 - root 노드의 값이 child node 보다 작을 경우, root 노드의 child node 중 가장 큰 값을 가진 노드와 root 노드 위치를 바꿔주는 작업을 반복함 (swap)
 
-<img src="https://www.fun-coding.org/00_Images/heap_remove.png">
+<img src="https://www.fun-coding.org/00_Images/heap_remove.png"/>
 
 ### 4. 힙 구현
 
@@ -163,9 +163,3 @@ class Heap:
         return returned_data
 ```
 
-### 5. 힙 (Heap) 시간 복잡도
-
-- depth (트리의 높이) 를 h라고 표기한다면,
-- n개의 노드를 가지는 heap 에 데이터 삽입 또는 삭제시, 최악의 경우 root 노드에서 leaf 노드까지 비교해야 하므로 $h = log_2{n} $ 에 가까우므로, 시간 복잡도는 $ O(log{n}) $
-  - 참고: 빅오 표기법에서 $log{n}$ 에서의 log의 밑은 10이 아니라, 2입니다.
-  - 한번 실행시마다, 50%의 실행할 수도 있는 명령을 제거한다는 의미. 즉 50%의 실행시간을 단축시킬 수 있다는 것을 의미함

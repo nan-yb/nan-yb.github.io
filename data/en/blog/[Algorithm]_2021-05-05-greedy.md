@@ -23,7 +23,7 @@ authors: ['default']
 
 ### 예
 
-<img src="https://www.fun-coding.org/00_Images/greedy.png" width=300>
+<img src="https://www.fun-coding.org/00_Images/greedy.png" width="300" />
 
 - '시작' 노드에서 시작해서 가장 작은 값을 찾아 leaf node 까지 가는 경로를 찾을 시에
   - Greedy 알고리즘 적용시 시작 -> 7 -> 12 를 선택하게 되므로 7 + 12 = 19 가 됨

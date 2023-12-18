@@ -31,6 +31,46 @@
     </item>
   
     <item>
+      <guid>https://www.yblog.dev/blog/does-promise-all-run-in-parallel-or-sequential</guid>
+      <title>Does JavaScript Promise.all() run in parallel or sequential?</title>
+      <link>https://www.yblog.dev/blog/does-promise-all-run-in-parallel-or-sequential</link>
+      <description>JavaScript is a single-threaded programming language, so it can&#39;t run multiple things at the same time, Promise.all() actually runs promises concurrently, not in parallel!. Let&#39;s dive in to see how it works.</description>
+      <pubDate>Mon, 04 Sep 2023 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>javascript</category><category>promise</category><category>parallel</category><category>sequential</category><category>concurrently</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/render-blocking-css-and-chrome-performance-api</guid>
+      <title>Eliminating Render Blocking CSS and measuring page rendering time with Performance API</title>
+      <link>https://www.yblog.dev/blog/render-blocking-css-and-chrome-performance-api</link>
+      <description>Learn how to improve your website&#39;s performance and enhance user experience by avoiding render blocking CSS. Using the Chrome Performance API to measure and optimize page rendering time.</description>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>render-blocking-resources</category><category>render-blocking-css</category><category>perfomance</category><category>chrome-performance-api</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/shopify-migrate-files-to-new-store-with-file-api-and-nodejs</guid>
+      <title>Successfully migrate all Shopify store assets to a new storefront</title>
+      <link>https://www.yblog.dev/blog/shopify-migrate-files-to-new-store-with-file-api-and-nodejs</link>
+      <description>Learn how to migrate your assets from an old Shopify store to a new one in a few simple steps. This guide will show you how to retrieve and download your images using GraphQL and Node.js, and upload them to your new store with ease.</description>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>shopify</category><category>assets</category><category>file-api</category><category>migration</category><category>graphql</category><category>nodejs</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/introduction-to-committing-with-conventional-commit</guid>
+      <title>Introduction to Committing with Conventional Commit</title>
+      <link>https://www.yblog.dev/blog/introduction-to-committing-with-conventional-commit</link>
+      <description>Conventional commit is a specific form of committing which gives software developers a uniform system for organizing and describing their changes, making it easier to keep track of updates</description>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>commit</category><category>git</category><category>conventional-commit</category>
+    </item>
+  
+    <item>
       <guid>https://www.yblog.dev/blog/[ETC]_MultiModule</guid>
       <title>Multi Module</title>
       <link>https://www.yblog.dev/blog/[ETC]_MultiModule</link>
@@ -111,6 +151,16 @@
     </item>
   
     <item>
+      <guid>https://www.yblog.dev/blog/better-responsive-image-with-srcset-and-sizes-attributes</guid>
+      <title>Better responsive images with srcset and sizes attributes</title>
+      <link>https://www.yblog.dev/blog/better-responsive-image-with-srcset-and-sizes-attributes</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>responsive</category><category>image</category><category>srcset</category><category>sizes</category><category>html</category><category>attributes</category>
+    </item>
+  
+    <item>
       <guid>https://www.yblog.dev/blog/[ETC]-Markdown</guid>
       <title>MarkDown</title>
       <link>https://www.yblog.dev/blog/[ETC]-Markdown</link>
@@ -118,6 +168,56 @@
       <pubDate>Sat, 03 Sep 2022 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
       <category>Markdown</category><category>md</category><category>마크다운</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/use-https-in-local-development</guid>
+      <title>How to create an HTTPS server in localhost?</title>
+      <link>https://www.yblog.dev/blog/use-https-in-local-development</link>
+      <description>The simplest way to set up an HTTPS server in Nodejs application when developing locally</description>
+      <pubDate>Sat, 05 Mar 2022 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>https</category><category>localhost</category><category>nodejs</category><category>open-ssl</category><category>443</category><category>mac-os</category><category>koajs</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/shopify-section-rendering-apis-notes</guid>
+      <title>Mastering Section Rendering APIs in Shopify Online Store 2.0</title>
+      <link>https://www.yblog.dev/blog/shopify-section-rendering-apis-notes</link>
+      <description>Learn how to leverage Section Rendering APIs to improve your Shopify store&#39;s performance and create dynamic, context-specific sections. Discover tips for querying dynamic section markup, including product and collection context</description>
+      <pubDate>Thu, 23 Sep 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>shopify</category><category>section</category><category>section-rendering-apis</category><category>key-notes</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/embed-script-using-github-and-jsdelivr</guid>
+      <title>Embedding scripts in web pages made easy with Github and jsDelivr</title>
+      <link>https://www.yblog.dev/blog/embed-script-using-github-and-jsdelivr</link>
+      <description>Learn how to embed scripts and styles in your web pages without the need to modify your site&#39;s existing code. Use Github to host your script and style files, and jsDelivr as a CDN to deliver them to your web page.</description>
+      <pubDate>Sun, 05 Sep 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>tutorial</category><category>sharing</category><category>embed</category><category>github</category><category>jsdelivr</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/prevent-layout-shift-while-show-hide-scrollbar-on-window</guid>
+      <title>Prevent layout shift when toggling scrollbar on Window</title>
+      <link>https://www.yblog.dev/blog/prevent-layout-shift-while-show-hide-scrollbar-on-window</link>
+      <description>When toggling the scrollbar on the Window, the layout shifts. This is because the scrollbar is added to the Window. How to prevent this with CSS?</description>
+      <pubDate>Mon, 16 Aug 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>css</category><category>tricks</category><category>layout-shift</category><category>scrollbar</category><category>window</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/git-notes</guid>
+      <title>Key notes while working with git</title>
+      <link>https://www.yblog.dev/blog/git-notes</link>
+      <description>Key notes to save plenty of time while working with git for command-line-developer</description>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>git</category><category>git-notes</category><category>git-alias</category><category>git-workflows</category>
     </item>
   
     <item>
@@ -280,6 +380,56 @@
       <category>자료구조</category><category>배열</category>
     </item>
   
-  </channel>
-</rss>
+    <item>
+      <guid>https://www.yblog.dev/blog/drag-n-drop-api-keynotes</guid>
+      <title>Drag and Drop API keynotes</title>
+      <link>https://www.yblog.dev/blog/drag-n-drop-api-keynotes</link>
+      <description>Some keynotes to keep in mind when working with Drag and Drop APIs in Javascript</description>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>drag-and-drop</category><category>dnd</category><category>keynotes</category><category>api</category><category>javascript</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/tricky-use-case-of-array-map-in-js</guid>
+      <title>Tricky use case of Array.prototype.map in JS</title>
+      <link>https://www.yblog.dev/blog/tricky-use-case-of-array-map-in-js</link>
+      <description>If you are familiar with functional programming, Array.prototype.map must be a function that you work with every day. We encountered a tricky use case of it at Cốc Cốc recently, it took me a while to figure out, and here&#39;s the answer...</description>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>javascript</category><category>array</category><category>map</category><category>functional-programming</category><category>use-cases</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/function-declaration-vs-function-expression-in-js</guid>
+      <title>When to use Function Declaration vs Function Expression in JavaScript?</title>
+      <link>https://www.yblog.dev/blog/function-declaration-vs-function-expression-in-js</link>
+      <description>Learn about the differences between Function Declaration and Function Expression in JavaScript, including their definitions, hoisting behavior, and when to use each method.</description>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>javascript</category><category>function</category><category>function-declaration</category><category>function-expression</category><category>anonymous-function</category><category>arrow-function</category><category>es5</category><category>es6</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/set-up-path-aliases-in-nodejs</guid>
+      <title>Simplify your Node.js project with module aliases</title>
+      <link>https://www.yblog.dev/blog/set-up-path-aliases-in-nodejs</link>
+      <description>Tired of dealing with complex file paths in your Node.js project? Learn how to set up module aliases using TypeScript and module-alias package to simplify your imports and improve your development experience.</description>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>nodejs</category><category>typescript</category><category>javascript</category><category>alias</category><category>path-aliases</category><category>tsconfig</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/nodejs-fetch-json-with-https</guid>
+      <title>How to make HTTP requests in Node.js without installing external libraries</title>
+      <link>https://www.yblog.dev/blog/nodejs-fetch-json-with-https</link>
+      <description>Learn how to make HTTP requests in Node.js without adding unnecessary dependencies to your project using the built-in https module. Follow these simple steps to easily fetch JSON data from external APIs and servers.</description>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>nodejs</category><category>request</category><category>json</category><category>https</category><category>built-in-module</category>
+    </item>
+  
+      </channel>
+    </rss>
   

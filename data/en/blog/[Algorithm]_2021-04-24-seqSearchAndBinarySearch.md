@@ -38,7 +38,7 @@ def sequencial(data_list, search_data):
 
 ### 이진 탐색의 이해 (순차 탐색과 비교하며 이해하기)
 
-<img src="https://www.mathwarehouse.com/programming/images/binary-vs-linear-search/binary-and-linear-search-animations.gif">
+<img src="https://www.mathwarehouse.com/programming/images/binary-vs-linear-search/binary-and-linear-search-animations.gif"/>
 
 - [저작자] by penjee.com [이미지 출처](https://blog.penjee.com/binary-vs-linear-search-animated-gifs)
 
@@ -92,9 +92,9 @@ def binary_search(data, search):
 ### 5. 알고리즘 분석
 
 - n개의 리스트를 매번 2로 나누어 1이 될 때까지 비교연산을 k회 진행
-  - <font size=4em>n X $\frac { 1 }{ 2 }$ X $\frac { 1 }{ 2 }$ X $\frac { 1 }{ 2 }$ ... = 1</font>
-  - <font size=4em>n X $\frac { 1 }{ 2 }^k$ = 1</font>
-  - <font size=4em>n = $2^k$ = $log_2 n$ = $log_2 2^k$</font>
-  - <font size=4em>$log_2 n$ = k</font>
+  - <font size="4em">n X $\frac { 1 }{ 2 }$ X $\frac { 1 }{ 2 }$ X $\frac { 1 }{ 2 }$ ... = 1</font>
+  - <font size="4em">n X $\frac { 1 }{ 2 }^k$ = 1</font>
+  - <font size="4em">n = $2^k$ = $log_2 n$ = $log_2 2^k$</font>
+  - <font size="4em">$log_2 n$ = k</font>
   - 빅 오 표기법으로는 k + 1 이 결국 최종 시간 복잡도임 (1이 되었을 때도, 비교연산을 한번 수행)
     - 결국 O($log_2 n$ + 1) 이고, 2와 1, 상수는 삭제 되므로, O($log n$)

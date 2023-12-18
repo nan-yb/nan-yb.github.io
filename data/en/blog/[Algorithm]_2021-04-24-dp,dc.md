@@ -42,9 +42,9 @@ authors: ['default']
 ### 3. 동적 계획법 알고리즘
 
 <div class="alert alert-block alert-warning">
-<strong><font color="blue" size="4em">프로그래밍 연습</font></strong><br>
-피보나치 수열: n 을 입력받아서 다음과 같이 계산됨<br>
-n 을 입력받았을 때 피보나치 수열로 결과값을 출력하세요<br>
+<strong><font color="blue" size="4em">프로그래밍 연습</font></strong>  
+피보나치 수열: n 을 입력받아서 다음과 같이 계산됨  
+n 을 입력받았을 때 피보나치 수열로 결과값을 출력하세요  
 </div>
 <img src="https://www.fun-coding.org/00_Images/Fibonacci.png" />
 <pre>
