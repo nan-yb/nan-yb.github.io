@@ -48,7 +48,10 @@ Spring Cloud Config는 분산 시스템에서 외부화된 설정 정보를 서�
 - Spring Cloud Config Server(설정 서버): 버전 관리 레포지토리로 백업된 중앙 집중식 구성 노출을 지원한다.
 - Spring Cloud Config Client(설정 클라이언트) : 애플리케이션이 설정 서버에 연결하도록 지원한다 
 
-## Spring Config 적용
+## Spring-Config 적용
+
+
+### Config-Server
 
 - build.gradle
 
@@ -110,4 +113,74 @@ public class ConfigServerApplication {
 		SpringApplication.run(ConfigServerApplication.class, args);
 	}
 }
+```
+
+
+### Config-Client
+
+
+- build.gradle
+
+``` gradle
+
+  ... 생략
+
+  ext {
+      set('springCloudVersion', "2021.0.2")
+  }
+
+  dependencies {
+      implementation 'org.springframework.boot:spring-boot-starter-web'
+      implementation 'org.springframework.cloud:spring-cloud-config-server'
+      implementation 'org.springframework.boot:spring-boot-starter-actuator'
+
+      testImplementation 'org.springframework.boot:spring-boot-starter-test'
+  }
+
+  dependencyManagement {
+      imports {
+          mavenBom "org.springframework.cloud:spring-cloud-dependencies:${springCloudVersion}"
+      }
+  }
+
+  ... 생략
+```
+
+- bootstrap.yml
+``` yml
+
+server:
+  port: 0
+spring:
+  application:
+    name: item-service 
+  profiles:
+    active: local
+  cloud:
+    config:
+      uri: http://localhost:8080
+    loadbalancer:
+      ribbon:
+        enabled: false
+
+```
+
+- config-server resource/config/item-service.yml
+
+``` yml
+
+  ... 생략
+
+logging:
+  file:
+    name: logs/api.log
+    max-size: 500MB
+    max-history: 10
+  level:
+    root: info
+    org.msa.item: debug
+   
+
+  ... 생략
+
 ```
