@@ -7,9 +7,19 @@
         <language>en</language>
         <managingEditor>dydqls5757@gmail.com (Kim Yongbin)</managingEditor>
         <webMaster>dydqls5757@gmail.com (Kim Yongbin)</webMaster>
-        <lastBuildDate>Tue, 25 Oct 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 00:00:00 GMT</lastBuildDate>
         <atom:link href="https://www.yblog.dev/tags/docker/feed.xml" rel="self" type="application/rss+xml"/>
         
+    <item>
+      <guid>https://www.yblog.dev/blog/[SpringCloud]_Docker를 이용하여 Image만들기</guid>
+      <title>[SpringCloud]_Microservice Docker Image 생성</title>
+      <link>https://www.yblog.dev/blog/[SpringCloud]_Docker를 이용하여 Image만들기</link>
+      <description>inflearn MSA 강좌</description>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>MSA</category><category>Spring-Cloud</category><category>Docker</category>
+    </item>
+  
     <item>
       <guid>https://www.yblog.dev/blog/[Docker]_DockerCompose</guid>
       <title>[Docker] Docker Compose</title>

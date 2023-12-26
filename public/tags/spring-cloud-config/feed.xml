@@ -11,10 +11,10 @@
         <atom:link href="https://www.yblog.dev/tags/spring-cloud-config/feed.xml" rel="self" type="application/rss+xml"/>
         
     <item>
-      <guid>https://www.yblog.dev/blog/[MSA]_SpringCloud</guid>
+      <guid>https://www.yblog.dev/blog/[SpringCloud]_SpringCloud</guid>
       <title>[MSA] Sprint-Cloud Config 설정</title>
-      <link>https://www.yblog.dev/blog/[MSA]_SpringCloud</link>
-      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <link>https://www.yblog.dev/blog/[SpringCloud]_SpringCloud</link>
+      <description>inflearn MSA 강좌</description>
       <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
       <category>MSA</category><category>Spring-Cloud</category><category>Spring-Cloud Config</category>
