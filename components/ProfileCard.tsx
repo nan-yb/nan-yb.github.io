@@ -62,7 +62,7 @@ export function ProfileCard() {
         )}
       >
         <Image
-          src={'/static/images/logo.jpg'}
+          src={'/static/images/profile.jpg'}
           alt={t('avatar_description')}
           width={550}
           height={350}

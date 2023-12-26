@@ -1,11 +1,11 @@
 export let siteMetadata = {
   siteUrl: 'https://www.yblog.dev',
-  siteRepo: 'https://github.com/nan-yb/yblog',
-  siteLogo: '/static/images/logo.jpg',
-  image: '/static/images/logo.jpg',
-  socialBanner: '/static/images/logo.jpg',
+  siteRepo: 'https://github.com/yongbin-dev/yblog',
+  siteLogo: '/static/images/profile.jpg',
+  image: '/static/images/profile.jpg',
+  socialBanner: '/static/images/profile.jpg',
   email: 'dydqls5757@gmail.com',
-  github: 'https://github.com/nan-yb',
+  github: 'https://github.com/yongbin-dev',
   facebook: 'https://facebook.com/',
   youtube: 'https://www.youtube.com/',
   linkedin: 'https://www.linkedin.com',
@@ -18,7 +18,7 @@ export let siteMetadata = {
     googleAnalyticsId: '', // e.g. UA-000000-2 or G-XXXXXXX
   },
   socialAccounts: {
-    github: 'nan-yb',
+    github: 'yongbin-dev',
     linkedin: '',
     x: 'yblog',
   },
