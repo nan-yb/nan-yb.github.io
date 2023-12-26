@@ -1,0 +1,305 @@
+
+    <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <title>YB&#39;s blog - YB&#39;s coding journey</title>
+        <link>https://www.yblog.dev/blog</link>
+        <description>YB&#39;s coding journey - work and life stories through the keyboard of an open-minded Software Engineer</description>
+        <language>en</language>
+        <managingEditor>dydqls5757@gmail.com (Kim Yongbin)</managingEditor>
+        <webMaster>dydqls5757@gmail.com (Kim Yongbin)</webMaster>
+        <lastBuildDate>Wed, 20 Dec 2023 00:00:00 GMT</lastBuildDate>
+        <atom:link href="https://www.yblog.dev/feed.xml" rel="self" type="application/rss+xml"/>
+        
+    <item>
+      <guid>https://www.yblog.dev/blog/[Gitlab]_Gitlab</guid>
+      <title>[Git]_Gitlab</title>
+      <link>https://www.yblog.dev/blog/[Gitlab]_Gitlab</link>
+      <description>인프런 강의</description>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>gitlab</category><category>git</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[SpringCloud]_Docker를 이용하여 Image만들기</guid>
+      <title>[SpringCloud]_Microservice Docker Image 생성</title>
+      <link>https://www.yblog.dev/blog/[SpringCloud]_Docker를 이용하여 Image만들기</link>
+      <description>inflearn MSA 강좌</description>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>MSA</category><category>Spring-Cloud</category><category>Docker</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[SpringCloud]_SpringCloud</guid>
+      <title>[MSA] Sprint-Cloud Config 설정</title>
+      <link>https://www.yblog.dev/blog/[SpringCloud]_SpringCloud</link>
+      <description>inflearn MSA 강좌</description>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>MSA</category><category>Spring-Cloud</category><category>Spring-Cloud Config</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[MSA]_MSA-Architecture</guid>
+      <title>MSA 소개</title>
+      <link>https://www.yblog.dev/blog/[MSA]_MSA-Architecture</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Sun, 17 Dec 2023 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>MSA</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[ETC]_MultiModule</guid>
+      <title>Multi Module</title>
+      <link>https://www.yblog.dev/blog/[ETC]_MultiModule</link>
+      
+      <pubDate>Sat, 05 Nov 2022 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>Multi Module</category><category>멀티 모듈</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[Docker]_DockerCompose</guid>
+      <title>[Docker] Docker Compose</title>
+      <link>https://www.yblog.dev/blog/[Docker]_DockerCompose</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>docker-compose</category><category>docker</category><category>devops</category><category>도커</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[Docker]_DockerContainer</guid>
+      <title>[Docker] Docker Container</title>
+      <link>https://www.yblog.dev/blog/[Docker]_DockerContainer</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>docker-container</category><category>docker</category><category>devops</category><category>도커</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[Docker]_DockerDaemon</guid>
+      <title>[Docker] Docker Daemon</title>
+      <link>https://www.yblog.dev/blog/[Docker]_DockerDaemon</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>docker-daemon</category><category>docker</category><category>devops</category><category>도커</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[Docker]_DockerImage</guid>
+      <title>[Docker] Docker Image</title>
+      <link>https://www.yblog.dev/blog/[Docker]_DockerImage</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>docker-image</category><category>docker</category><category>devops</category><category>도커</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[JS]_ArrayMethod</guid>
+      <title>[Javascript] Array 자주쓰는 메서드 정리</title>
+      <link>https://www.yblog.dev/blog/[JS]_ArrayMethod</link>
+      
+      <pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>Javascript</category><category>Array</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[Spring]_AOP</guid>
+      <title>[Spring] AOP</title>
+      <link>https://www.yblog.dev/blog/[Spring]_AOP</link>
+      
+      <pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>spring</category><category>spring-aop</category><category>aop</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[Spring]_DI-Dependency_Injection</guid>
+      <title>[Spring] DI</title>
+      <link>https://www.yblog.dev/blog/[Spring]_DI-Dependency_Injection</link>
+      
+      <pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>spring</category><category>spring-di</category><category>DI</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[ETC]-Markdown</guid>
+      <title>MarkDown</title>
+      <link>https://www.yblog.dev/blog/[ETC]-Markdown</link>
+      
+      <pubDate>Sat, 03 Sep 2022 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>Markdown</category><category>md</category><category>마크다운</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-05-05-Graph</guid>
+      <title>[알고리즘] 그래프</title>
+      <link>https://www.yblog.dev/blog/[Algorithm]_2021-05-05-Graph</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>algorithm</category><category>알고리즘</category><category>그래프</category><category>graph</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-05-05-bfs</guid>
+      <title>[알고리즘] BFS</title>
+      <link>https://www.yblog.dev/blog/[Algorithm]_2021-05-05-bfs</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>algorithm</category><category>알고리즘</category><category>BFS</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-05-05-dfs</guid>
+      <title>[알고리즘] DFS</title>
+      <link>https://www.yblog.dev/blog/[Algorithm]_2021-05-05-dfs</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>algorithm</category><category>알고리즘</category><category>DFS</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-05-05-greedy</guid>
+      <title>[알고리즘] 탐욕 알고리즘</title>
+      <link>https://www.yblog.dev/blog/[Algorithm]_2021-05-05-greedy</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>algorithm</category><category>알고리즘</category><category>탐욕</category><category>greedy</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-bubbleSort</guid>
+      <title>[알고리즘] 버블정렬</title>
+      <link>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-bubbleSort</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>algorithm</category><category>알고리즘</category><category>버블정렬</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-dp,dc</guid>
+      <title>[알고리즘] 동적계획법 , 분할정복</title>
+      <link>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-dp,dc</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>algorithm</category><category>알고리즘</category><category>동적계획법</category><category>분할정복</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-heapSort</guid>
+      <title>[알고리즘] 힙정렬</title>
+      <link>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-heapSort</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>algorithm</category><category>알고리즘</category><category>힙정렬</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-insertionSort</guid>
+      <title>[알고리즘] 삽입정렬</title>
+      <link>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-insertionSort</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>algorithm</category><category>알고리즘</category><category>삽입정렬</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-mergeSort</guid>
+      <title>[알고리즘] 병합정렬</title>
+      <link>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-mergeSort</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>algorithm</category><category>알고리즘</category><category>병합정렬</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-selectionSort</guid>
+      <title>[알고리즘] 선택정렬</title>
+      <link>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-selectionSort</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>algorithm</category><category>알고리즘</category><category>선택정렬</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-seqSearchAndBinarySearch</guid>
+      <title>[알고리즘] 순차탐색 , 이진탐색</title>
+      <link>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-seqSearchAndBinarySearch</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>algorithm</category><category>알고리즘</category><category>순차탐색</category><category>이진탐색</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-04-04-heap</guid>
+      <title>[자료구조] 힙</title>
+      <link>https://www.yblog.dev/blog/[Algorithm]_2021-04-04-heap</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Sun, 04 Apr 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>자료구조</category><category>힙</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-04-03-tree</guid>
+      <title>[자료구조] 트리</title>
+      <link>https://www.yblog.dev/blog/[Algorithm]_2021-04-03-tree</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Sat, 03 Apr 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>자료구조</category><category>트리</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-03-28-stackAndQuque</guid>
+      <title>[자료구조] 스택 , 큐</title>
+      <link>https://www.yblog.dev/blog/[Algorithm]_2021-03-28-stackAndQuque</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>자료구조</category><category>스택</category><category>큐</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-03-29-linkedList</guid>
+      <title>[자료구조] 연결리스트</title>
+      <link>https://www.yblog.dev/blog/[Algorithm]_2021-03-29-linkedList</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>자료구조</category><category>연결리스트</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-03-28-array</guid>
+      <title>[자료구조] 배열</title>
+      <link>https://www.yblog.dev/blog/[Algorithm]_2021-03-28-array</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>자료구조</category><category>배열</category>
+    </item>
+  
+      </channel>
+    </rss>
+  
