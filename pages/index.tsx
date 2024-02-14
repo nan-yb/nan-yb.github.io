@@ -8,7 +8,6 @@ import { FeaturedPosts } from '~/components/homepage/FeaturedPosts'
 import { Greeting } from '~/components/homepage/Greeting'
 import { Heading } from '~/components/homepage/Heading'
 import { ShortDescription } from '~/components/homepage/ShortDescription'
-import { TypedBios } from '~/components/homepage/TypedBios'
 import { getAllFilesFrontMatter } from '~/libs/mdx.server'
 
 export async function getStaticProps({ locale }) {
@@ -33,18 +32,17 @@ export default function Home({ posts }) {
             <Greeting />
             <div className="text-base leading-7 md:text-lg md:leading-8 text-gray-600 dark:text-gray-400">
               <Heading />
-              <TypedBios />
               <ShortDescription />
-              <BlogLinks />
-              <p className="my-8 flex">
+              {/* <BlogLinks /> */}
+              {/* <p className="my-8 flex">
                 <span className="mr-2">{t('happy_reading')}</span>
                 <Twemoji emoji="clinking-beer-mugs" />
-              </p>
+              </p> */}
             </div>
           </div>
-          <div className="hidden xl:block">
+          <div className="hidden xl:block"> 
             <ProfileCard />
-          </div>
+          </div> 
         </div>
       </div>
       <FeaturedPosts posts={posts} />

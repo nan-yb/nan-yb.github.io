@@ -4,14 +4,12 @@ date: '2023-12-18'
 tags: ['MSA', 'Spring-Cloud', 'Spring-Cloud Config']
 draft: false
 summary: 'inflearn MSA 강좌'
-images: ['/static/images/responsive-image.jpg']
 authors: ['default']
 ---
 
 import Twemoji from './Twemoji.tsx'
 import UnsplashPhotoInfo from './UnsplashPhotoInfo.tsx'
 
-![thumbnail-image](/static/images/responsive-image.jpg)
 
 <UnsplashPhotoInfo photoURL="https://unsplash.com/photos/TMa0l7fdSW8" author="Dang Cong" />
 
