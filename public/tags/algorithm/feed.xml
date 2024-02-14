@@ -1,7 +1,7 @@
 
     <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
       <channel>
-        <title>YB&#39;s blog - YB&#39;s coding journey</title>
+        <title>YB&#39;s blog</title>
         <link>https://www.yblog.dev/blog</link>
         <description>YB&#39;s coding journey - work and life stories through the keyboard of an open-minded Software Engineer</description>
         <language>en</language>
@@ -11,19 +11,9 @@
         <atom:link href="https://www.yblog.dev/tags/algorithm/feed.xml" rel="self" type="application/rss+xml"/>
         
     <item>
-      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-05-05-Graph</guid>
-      <title>[알고리즘] 그래프</title>
-      <link>https://www.yblog.dev/blog/[Algorithm]_2021-05-05-Graph</link>
-      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
-      <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
-      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>algorithm</category><category>알고리즘</category><category>그래프</category><category>graph</category>
-    </item>
-  
-    <item>
-      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-05-05-bfs</guid>
+      <guid>https://www.yblog.dev/blog/algorithm/bfs</guid>
       <title>[알고리즘] BFS</title>
-      <link>https://www.yblog.dev/blog/[Algorithm]_2021-05-05-bfs</link>
+      <link>https://www.yblog.dev/blog/algorithm/bfs</link>
       <description>A guide to using the srcset and sizes attributes to create responsive images</description>
       <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
@@ -31,9 +21,9 @@
     </item>
   
     <item>
-      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-05-05-dfs</guid>
+      <guid>https://www.yblog.dev/blog/algorithm/dfs</guid>
       <title>[알고리즘] DFS</title>
-      <link>https://www.yblog.dev/blog/[Algorithm]_2021-05-05-dfs</link>
+      <link>https://www.yblog.dev/blog/algorithm/dfs</link>
       <description>A guide to using the srcset and sizes attributes to create responsive images</description>
       <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
@@ -41,9 +31,19 @@
     </item>
   
     <item>
-      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-05-05-greedy</guid>
+      <guid>https://www.yblog.dev/blog/algorithm/graph</guid>
+      <title>[알고리즘] 그래프</title>
+      <link>https://www.yblog.dev/blog/algorithm/graph</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>algorithm</category><category>알고리즘</category><category>그래프</category><category>graph</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/algorithm/greedy</guid>
       <title>[알고리즘] 탐욕 알고리즘</title>
-      <link>https://www.yblog.dev/blog/[Algorithm]_2021-05-05-greedy</link>
+      <link>https://www.yblog.dev/blog/algorithm/greedy</link>
       <description>A guide to using the srcset and sizes attributes to create responsive images</description>
       <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
@@ -51,9 +51,9 @@
     </item>
   
     <item>
-      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-bubbleSort</guid>
+      <guid>https://www.yblog.dev/blog/algorithm/bubbleSort</guid>
       <title>[알고리즘] 버블정렬</title>
-      <link>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-bubbleSort</link>
+      <link>https://www.yblog.dev/blog/algorithm/bubbleSort</link>
       <description>A guide to using the srcset and sizes attributes to create responsive images</description>
       <pubDate>Sat, 24 Apr 2021 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
@@ -61,9 +61,9 @@
     </item>
   
     <item>
-      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-dp,dc</guid>
+      <guid>https://www.yblog.dev/blog/algorithm/dp,dc</guid>
       <title>[알고리즘] 동적계획법 , 분할정복</title>
-      <link>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-dp,dc</link>
+      <link>https://www.yblog.dev/blog/algorithm/dp,dc</link>
       <description>A guide to using the srcset and sizes attributes to create responsive images</description>
       <pubDate>Sat, 24 Apr 2021 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
@@ -71,9 +71,9 @@
     </item>
   
     <item>
-      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-heapSort</guid>
+      <guid>https://www.yblog.dev/blog/algorithm/heapSort</guid>
       <title>[알고리즘] 힙정렬</title>
-      <link>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-heapSort</link>
+      <link>https://www.yblog.dev/blog/algorithm/heapSort</link>
       <description>A guide to using the srcset and sizes attributes to create responsive images</description>
       <pubDate>Sat, 24 Apr 2021 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
@@ -81,9 +81,9 @@
     </item>
   
     <item>
-      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-insertionSort</guid>
+      <guid>https://www.yblog.dev/blog/algorithm/insertionSort</guid>
       <title>[알고리즘] 삽입정렬</title>
-      <link>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-insertionSort</link>
+      <link>https://www.yblog.dev/blog/algorithm/insertionSort</link>
       <description>A guide to using the srcset and sizes attributes to create responsive images</description>
       <pubDate>Sat, 24 Apr 2021 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
@@ -91,9 +91,9 @@
     </item>
   
     <item>
-      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-mergeSort</guid>
+      <guid>https://www.yblog.dev/blog/algorithm/mergeSort</guid>
       <title>[알고리즘] 병합정렬</title>
-      <link>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-mergeSort</link>
+      <link>https://www.yblog.dev/blog/algorithm/mergeSort</link>
       <description>A guide to using the srcset and sizes attributes to create responsive images</description>
       <pubDate>Sat, 24 Apr 2021 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
@@ -101,9 +101,9 @@
     </item>
   
     <item>
-      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-selectionSort</guid>
+      <guid>https://www.yblog.dev/blog/algorithm/selectionSort</guid>
       <title>[알고리즘] 선택정렬</title>
-      <link>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-selectionSort</link>
+      <link>https://www.yblog.dev/blog/algorithm/selectionSort</link>
       <description>A guide to using the srcset and sizes attributes to create responsive images</description>
       <pubDate>Sat, 24 Apr 2021 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
@@ -111,9 +111,9 @@
     </item>
   
     <item>
-      <guid>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-seqSearchAndBinarySearch</guid>
+      <guid>https://www.yblog.dev/blog/algorithm/seqSearchAndBinarySearch</guid>
       <title>[알고리즘] 순차탐색 , 이진탐색</title>
-      <link>https://www.yblog.dev/blog/[Algorithm]_2021-04-24-seqSearchAndBinarySearch</link>
+      <link>https://www.yblog.dev/blog/algorithm/seqSearchAndBinarySearch</link>
       <description>A guide to using the srcset and sizes attributes to create responsive images</description>
       <pubDate>Sat, 24 Apr 2021 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
