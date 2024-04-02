@@ -1,7 +1,7 @@
 ---
 title: '[알고리즘] 순차탐색 , 이진탐색'
 date: '2021-04-24'
-tags: ['algorithm', '알고리즘'  , '순차탐색', '이진탐색']
+tags: ['algorithm']
 draft: false
 summary: 'A guide to using the srcset and sizes attributes to create responsive images'
 images: ['/static/images/responsive-image.jpg']

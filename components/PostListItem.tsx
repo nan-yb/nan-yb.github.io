@@ -13,8 +13,7 @@ export function PostListItem({
     SnippetFrontMatter
   let { t, i18n } = useTranslation()
   let lang = i18n.language
-  let isSnippets = heading && type
-  let category = isSnippets ? 'snippets' : 'blog'
+  let category = 'blog'
 
   return (
     <li key={slug}>

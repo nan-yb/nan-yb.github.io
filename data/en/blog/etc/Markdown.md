@@ -1,7 +1,7 @@
 ---
 title: 'MarkDown'
 date: '2022-09-03'
-tags: ['Markdown', 'md', '마크다운']
+tags: ['MarkDown']
 draft: false
 summary: ''
 images: ['/static/images/responsive-image.jpg']

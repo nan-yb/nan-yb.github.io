@@ -51,6 +51,16 @@
     </item>
   
     <item>
+      <guid>https://www.yblog.dev/blog/spring/SpringCloud_Microsoft_Docker</guid>
+      <title>[SpringCloud]_Microservice Docker Image 생성</title>
+      <link>https://www.yblog.dev/blog/spring/SpringCloud_Microsoft_Docker</link>
+      <description>inflearn MSA 강좌</description>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>MSA</category><category>SpringCloud</category><category>Docker</category>
+    </item>
+  
+    <item>
       <guid>https://www.yblog.dev/blog/architecture/MSA-Architecture</guid>
       <title>MSA 소개</title>
       <link>https://www.yblog.dev/blog/architecture/MSA-Architecture</link>
@@ -67,7 +77,7 @@
       
       <pubDate>Sat, 05 Nov 2022 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>Multi Module</category><category>멀티 모듈</category>
+      <category>Multi Module</category>
     </item>
   
     <item>
@@ -147,7 +157,7 @@
       
       <pubDate>Sat, 03 Sep 2022 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>Markdown</category><category>md</category><category>마크다운</category>
+      <category>MarkDown</category>
     </item>
   
     <item>
@@ -157,7 +167,7 @@
       <description>A guide to using the srcset and sizes attributes to create responsive images</description>
       <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>algorithm</category><category>알고리즘</category><category>BFS</category>
+      <category>algorithm</category>
     </item>
   
     <item>
@@ -167,7 +177,7 @@
       <description>A guide to using the srcset and sizes attributes to create responsive images</description>
       <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>algorithm</category><category>알고리즘</category><category>DFS</category>
+      <category>algorithm</category>
     </item>
   
     <item>
@@ -177,7 +187,7 @@
       <description>A guide to using the srcset and sizes attributes to create responsive images</description>
       <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>algorithm</category><category>알고리즘</category><category>그래프</category><category>graph</category>
+      <category>algorithm</category>
     </item>
   
     <item>
@@ -187,7 +197,7 @@
       <description>A guide to using the srcset and sizes attributes to create responsive images</description>
       <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>algorithm</category><category>알고리즘</category><category>탐욕</category><category>greedy</category>
+      <category>algorithm</category>
     </item>
   
     <item>
@@ -197,7 +207,7 @@
       <description>A guide to using the srcset and sizes attributes to create responsive images</description>
       <pubDate>Sat, 24 Apr 2021 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>algorithm</category><category>알고리즘</category><category>버블정렬</category>
+      <category>algorithm</category>
     </item>
   
     <item>
@@ -207,7 +217,7 @@
       <description>A guide to using the srcset and sizes attributes to create responsive images</description>
       <pubDate>Sat, 24 Apr 2021 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>algorithm</category><category>알고리즘</category><category>동적계획법</category><category>분할정복</category>
+      <category>algorithm</category>
     </item>
   
     <item>
@@ -217,7 +227,7 @@
       <description>A guide to using the srcset and sizes attributes to create responsive images</description>
       <pubDate>Sat, 24 Apr 2021 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>algorithm</category><category>알고리즘</category><category>힙정렬</category>
+      <category>algorithm</category>
     </item>
   
     <item>
@@ -227,7 +237,7 @@
       <description>A guide to using the srcset and sizes attributes to create responsive images</description>
       <pubDate>Sat, 24 Apr 2021 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>algorithm</category><category>알고리즘</category><category>삽입정렬</category>
+      <category>algorithm</category>
     </item>
   
     <item>
@@ -237,7 +247,7 @@
       <description>A guide to using the srcset and sizes attributes to create responsive images</description>
       <pubDate>Sat, 24 Apr 2021 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>algorithm</category><category>알고리즘</category><category>병합정렬</category>
+      <category>algorithm</category>
     </item>
   
     <item>
@@ -247,7 +257,7 @@
       <description>A guide to using the srcset and sizes attributes to create responsive images</description>
       <pubDate>Sat, 24 Apr 2021 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>algorithm</category><category>알고리즘</category><category>선택정렬</category>
+      <category>algorithm</category>
     </item>
   
     <item>
@@ -257,7 +267,7 @@
       <description>A guide to using the srcset and sizes attributes to create responsive images</description>
       <pubDate>Sat, 24 Apr 2021 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>algorithm</category><category>알고리즘</category><category>순차탐색</category><category>이진탐색</category>
+      <category>algorithm</category>
     </item>
   
     <item>
@@ -267,7 +277,7 @@
       <description>A guide to using the srcset and sizes attributes to create responsive images</description>
       <pubDate>Sun, 04 Apr 2021 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>자료구조</category><category>힙</category>
+      <category>Data Structure</category>
     </item>
   
     <item>
@@ -277,7 +287,7 @@
       <description>A guide to using the srcset and sizes attributes to create responsive images</description>
       <pubDate>Sat, 03 Apr 2021 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>자료구조</category><category>트리</category>
+      <category>Data Structure</category>
     </item>
   
     <item>
@@ -287,7 +297,7 @@
       <description>A guide to using the srcset and sizes attributes to create responsive images</description>
       <pubDate>Mon, 29 Mar 2021 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>자료구조</category><category>연결리스트</category>
+      <category>Data Structure</category>
     </item>
   
     <item>
@@ -297,7 +307,7 @@
       <description>A guide to using the srcset and sizes attributes to create responsive images</description>
       <pubDate>Mon, 29 Mar 2021 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>자료구조</category><category>스택</category><category>큐</category>
+      <category>Data Structure</category>
     </item>
   
     <item>
@@ -307,7 +317,7 @@
       <description>A guide to using the srcset and sizes attributes to create responsive images</description>
       <pubDate>Sun, 28 Mar 2021 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>자료구조</category><category>배열</category>
+      <category>Data Structure</category>
     </item>
   
       </channel>

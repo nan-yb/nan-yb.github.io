@@ -1,7 +1,7 @@
 ---
 title: '[알고리즘] 동적계획법 , 분할정복'
 date: '2021-04-24'
-tags: ['algorithm', '알고리즘', '동적계획법', '분할정복']
+tags: ['algorithm']
 draft: false
 summary: 'A guide to using the srcset and sizes attributes to create responsive images'
 images: ['/static/images/responsive-image.jpg']

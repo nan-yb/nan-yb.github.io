@@ -1,7 +1,7 @@
 ---
 title: 'Multi Module'
 date: '2022-11-05'
-tags: ['Multi Module', '멀티 모듈']
+tags: ['Multi Module']
 draft: false
 summary: ''
 images: ['/static/images/responsive-image.jpg']

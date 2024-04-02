@@ -1,7 +1,7 @@
 ---
 title: '[자료구조] 트리'
 date: '2021-04-03'
-tags: ['자료구조', '트리' ]
+tags: ['Data Structure']
 draft: false
 summary: 'A guide to using the srcset and sizes attributes to create responsive images'
 images: ['/static/images/responsive-image.jpg']

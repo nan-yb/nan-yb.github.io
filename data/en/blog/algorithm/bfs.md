@@ -1,7 +1,7 @@
 ---
 title: '[알고리즘] BFS'
 date: '2021-05-05'
-tags: ['algorithm', '알고리즘'  , 'BFS']
+tags: ['algorithm']
 draft: false
 summary: 'A guide to using the srcset and sizes attributes to create responsive images'
 images: ['/static/images/responsive-image.jpg']

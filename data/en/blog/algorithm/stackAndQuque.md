@@ -1,7 +1,7 @@
 ---
 title: '[자료구조] 스택 , 큐'
 date: '2021-03-29'
-tags: ['자료구조', '스택', '큐' ]
+tags: ['Data Structure']
 draft: false
 summary: 'A guide to using the srcset and sizes attributes to create responsive images'
 images: ['/static/images/responsive-image.jpg']

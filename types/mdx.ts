@@ -8,7 +8,6 @@ export type MdxPageLayout =
   | 'PostLayout'
   | 'PostSimple'
   | 'ResumeLayout'
-  | 'SnippetLayout'
 
 export interface MdxFrontMatter {
   layout?: MdxPageLayout

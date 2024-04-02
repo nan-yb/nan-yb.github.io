@@ -7,17 +7,17 @@
         <language>en</language>
         <managingEditor>dydqls5757@gmail.com (Kim Yongbin)</managingEditor>
         <webMaster>dydqls5757@gmail.com (Kim Yongbin)</webMaster>
-        <lastBuildDate>Sat, 05 Nov 2022 00:00:00 GMT</lastBuildDate>
-        <atom:link href="https://www.yblog.dev/tags/multi-module/feed.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 03 Sep 2022 00:00:00 GMT</lastBuildDate>
+        <atom:link href="https://www.yblog.dev/tags/mark-down/feed.xml" rel="self" type="application/rss+xml"/>
         
     <item>
-      <guid>https://www.yblog.dev/blog/architecture/MultiModule</guid>
-      <title>Multi Module</title>
-      <link>https://www.yblog.dev/blog/architecture/MultiModule</link>
+      <guid>https://www.yblog.dev/blog/etc/Markdown</guid>
+      <title>MarkDown</title>
+      <link>https://www.yblog.dev/blog/etc/Markdown</link>
       
-      <pubDate>Sat, 05 Nov 2022 00:00:00 GMT</pubDate>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>Multi Module</category>
+      <category>MarkDown</category>
     </item>
   
       </channel>

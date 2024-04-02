@@ -1,0 +1,65 @@
+
+    <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <title>YB&#39;s blog</title>
+        <link>https://www.yblog.dev/blog</link>
+        <description>YB&#39;s coding journey - work and life stories through the keyboard of an open-minded Software Engineer</description>
+        <language>en</language>
+        <managingEditor>dydqls5757@gmail.com (Kim Yongbin)</managingEditor>
+        <webMaster>dydqls5757@gmail.com (Kim Yongbin)</webMaster>
+        <lastBuildDate>Sun, 04 Apr 2021 00:00:00 GMT</lastBuildDate>
+        <atom:link href="https://www.yblog.dev/tags/data-structure/feed.xml" rel="self" type="application/rss+xml"/>
+        
+    <item>
+      <guid>https://www.yblog.dev/blog/algorithm/heap</guid>
+      <title>[자료구조] 힙</title>
+      <link>https://www.yblog.dev/blog/algorithm/heap</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Sun, 04 Apr 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>Data Structure</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/algorithm/tree</guid>
+      <title>[자료구조] 트리</title>
+      <link>https://www.yblog.dev/blog/algorithm/tree</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Sat, 03 Apr 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>Data Structure</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/algorithm/linkedList</guid>
+      <title>[자료구조] 연결리스트</title>
+      <link>https://www.yblog.dev/blog/algorithm/linkedList</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>Data Structure</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/algorithm/stackAndQuque</guid>
+      <title>[자료구조] 스택 , 큐</title>
+      <link>https://www.yblog.dev/blog/algorithm/stackAndQuque</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>Data Structure</category>
+    </item>
+  
+    <item>
+      <guid>https://www.yblog.dev/blog/algorithm/array</guid>
+      <title>[자료구조] 배열</title>
+      <link>https://www.yblog.dev/blog/algorithm/array</link>
+      <description>A guide to using the srcset and sizes attributes to create responsive images</description>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 GMT</pubDate>
+      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
+      <category>Data Structure</category>
+    </item>
+  
+      </channel>
+    </rss>
+  
