@@ -8,9 +8,6 @@ authors: ['default']
 ---
 
 import Twemoji from './Twemoji.tsx'
-import UnsplashPhotoInfo from './UnsplashPhotoInfo.tsx'
-
-<UnsplashPhotoInfo photoURL="https://unsplash.com/photos/TMa0l7fdSW8" author="Dang Cong" />
 
 ## 상황 
   - Spring Schuduler가 정상 작동 되지 않음

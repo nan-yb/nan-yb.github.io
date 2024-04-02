@@ -8,10 +8,6 @@ authors: ['default']
 ---
 
 import Twemoji from './Twemoji.tsx'
-import UnsplashPhotoInfo from './UnsplashPhotoInfo.tsx'
-
-
-<UnsplashPhotoInfo photoURL="https://unsplash.com/photos/TMa0l7fdSW8" author="Dang Cong" />
 
 # Spring Cloud
 

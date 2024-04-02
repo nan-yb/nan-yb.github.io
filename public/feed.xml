@@ -31,16 +31,6 @@
     </item>
   
     <item>
-      <guid>https://www.yblog.dev/blog/docker/Docker를 이용하여 Image만들기</guid>
-      <title>[SpringCloud]_Microservice Docker Image 생성</title>
-      <link>https://www.yblog.dev/blog/docker/Docker를 이용하여 Image만들기</link>
-      <description>inflearn MSA 강좌</description>
-      <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
-      <author>dydqls5757@gmail.com (Kim Yongbin)</author>
-      <category>MSA</category><category>Spring-Cloud</category><category>Docker</category>
-    </item>
-  
-    <item>
       <guid>https://www.yblog.dev/blog/spring/SpringCloud</guid>
       <title>[MSA] Sprint-Cloud Config 설정</title>
       <link>https://www.yblog.dev/blog/spring/SpringCloud</link>
@@ -51,9 +41,9 @@
     </item>
   
     <item>
-      <guid>https://www.yblog.dev/blog/spring/SpringCloud_Microsoft_Docker</guid>
+      <guid>https://www.yblog.dev/blog/spring/SpringCloud_인프런 MSA 강좌 정리</guid>
       <title>[SpringCloud]_Microservice Docker Image 생성</title>
-      <link>https://www.yblog.dev/blog/spring/SpringCloud_Microsoft_Docker</link>
+      <link>https://www.yblog.dev/blog/spring/SpringCloud_인프런 MSA 강좌 정리</link>
       <description>inflearn MSA 강좌</description>
       <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
       <author>dydqls5757@gmail.com (Kim Yongbin)</author>
