@@ -40,7 +40,7 @@ export default function Projects({ projectsData }: { projectsData: Project[] }) 
             {description}
           </p>
         </div>
-        <div className="container py-12">
+        {/* <div className="container py-12">
           <h3 className="mb-4 text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100">
             {t('projects.work_title')}
           </h3>
@@ -49,7 +49,7 @@ export default function Projects({ projectsData }: { projectsData: Project[] }) 
               <ProjectCard key={project.title} project={project} />
             ))}
           </div>
-        </div>
+        </div> */}
         <div className="container py-12">
           <h3 className="mb-4 text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100">
             {t('projects.side_title')}

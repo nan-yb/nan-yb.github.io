@@ -8,5 +8,12 @@ import type { Project } from '~/types/data'
 // builtWith: ['Remix', 'Prisma', 'Tailwind', 'OpenAI'],
 
 export let projectsData: Project[] = [
-  
+  {
+    type: 'self',
+    title: 'Chatbot',
+    description: `Chat-GPT 클론코딩 , 월 구독제와 API를 사용한 만큼 내는 비용을 비교하기 위해 개발.`,
+    imgSrc: '/static/images/chat_gpt_logo.png',
+    url: 'https://chatbot-yongbin.netlify.app',
+    builtWith: ['Chat-GPT', 'OpenAI'],
+  },
 ]

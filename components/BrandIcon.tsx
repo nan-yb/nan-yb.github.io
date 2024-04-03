@@ -17,6 +17,7 @@ import Typescript from '~/icons/typescript.svg'
 import Umami from '~/icons/umami.svg'
 import Vercel from '~/icons/vercel.svg'
 import Netlify from '~/icons/netlify.svg'
+import ChatGPT from "~/icons/chatgpt.svg"
 
 
 export let BrandIconsMap = {
@@ -38,7 +39,8 @@ export let BrandIconsMap = {
   Vercel,
   Railway,
   Spotify,
-  Netlify
+  Netlify,
+  ChatGPT
 }
 
 export function BrandIcon(props: { type: keyof typeof BrandIconsMap; className?: string }) {
