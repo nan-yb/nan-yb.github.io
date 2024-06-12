@@ -1,5 +1,5 @@
 ---
-title: '[MSA] Sprint-Cloud Config 설정'
+title: '[MSA] Spring-Cloud Config 설정'
 date: '2023-12-18'
 tags: ['MSA', 'Spring-Cloud', 'Spring-Cloud Config']
 draft: false

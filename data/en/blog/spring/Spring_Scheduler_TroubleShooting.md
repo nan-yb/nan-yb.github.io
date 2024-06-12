@@ -1,5 +1,5 @@
 ---
-title: '[TroubleShooting] Spring Scheduler ThreadPool'
+title: 'Spring Schuduler 설정 시 주의 해야 할 점 (Scheduler Thread Pool)'
 date: '2024-02-14'
 tags: ['TroubleShooting', 'Spring', 'Scheduler' , 'Thread pool']
 draft: false

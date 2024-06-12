@@ -1,5 +1,5 @@
 ---
-title: '[SpringCloud]_Microservice Docker Image 생성'
+title: 'MSA Docker Image 생성'
 date: '2023-12-18'
 tags: ['MSA', 'SpringCloud', 'Docker']
 draft: false

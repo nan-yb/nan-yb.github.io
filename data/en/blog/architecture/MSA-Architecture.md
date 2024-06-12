@@ -1,5 +1,5 @@
 ---
-path: '[MSA]_MSA Architecture'
+path: 'MSA 아키텍쳐'
 title: 'MSA 소개'
 date: '2023-12-17'
 tags: ['MSA']

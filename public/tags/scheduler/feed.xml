@@ -12,7 +12,7 @@
         
     <item>
       <guid>https://www.yblog.dev/blog/spring/Spring_Scheduler_TroubleShooting</guid>
-      <title>[TroubleShooting] Spring Scheduler ThreadPool</title>
+      <title>Spring Schuduler 설정 시 주의 해야 할 점 (Scheduler Thread Pool)</title>
       <link>https://www.yblog.dev/blog/spring/Spring_Scheduler_TroubleShooting</link>
       
       <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
